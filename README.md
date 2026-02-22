@@ -121,20 +121,22 @@ streamlit run cricbuzzapp.py
 
 ## 📸 Screenshots
 
-
-
 Example:
 
-```<img width="1886" height="867" alt="Screenshot 2026-02-22 121725" src="https://github.com/user-attachments/assets/52c3c8f0-ba8d-4c25-b4b0-c6c64df3bcd3" />
-<img width="1902" height="872" alt="Screenshot 2026-02-22 122030" src="https://github.com/user-attachments/assets/c9b6c2c0-2059-48a2-af83-2e33ab960672" />
-<img width="1913" height="864" alt="Screenshot 2026-02-22 122054" src="https://github.com/user-attachments/assets/731ae3fb-3053-4679-9c97-c5e9b92803aa" />
-<img width="1901" height="850" alt="Screenshot 2026-02-22 122125" src="https://github.com/user-attachments/assets/09ae53f7-9785-401c-b89c-f810cce5d1bd" />
-<img width="1899" height="851" alt="Screenshot 2026-02-22 122224" src="https://github.com/user-attachments/assets/1eb4b0f1-0ce4-408c-9db1-de79c97700ee" />
+## 📸 Screenshots
 
-![Dashboard](assets/dashboard.png
-```
+### Matches Dashboard
+![Matches Dashboard](https://github.com/user-attachments/assets/ca8f15e9-faf8-41f6-afa9-0b67210c0735)
 
----
+### Player Statistics
+![Player Statistics](https://github.com/user-attachments/assets/de497c16-3eea-4370-a052-c44c25122005)
+
+### SQL Analytics
+![SQL Analytics](https://github.com/user-attachments/assets/f2a0eae9-5e24-4973-a61a-a333dd070fef)
+
+### CRUD Operations
+![CRUD Operations](https://github.com/user-attachments/assets/6bffd6bb-1319-4763-872e-55d4d327b694)
+
 
 ## 🎯 Key Learning Outcomes
 
