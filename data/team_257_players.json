@@ -1,0 +1,122 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "9090",
+            "name": "Kyshona Knight",
+            "imageId": 157857,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "12774",
+            "name": "Akeira Peters",
+            "imageId": 152880,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        },
+        {
+            "id": "12775",
+            "name": "Felicia Walters",
+            "imageId": 159981,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9095",
+            "name": "Stafanie Taylor",
+            "imageId": 254988,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9089",
+            "name": "Deandra Dottin",
+            "imageId": 227427,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "12773",
+            "name": "Qiana Joseph",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "11256",
+            "name": "Hayley Matthews",
+            "imageId": 254970,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9096",
+            "name": "Shanel Daley",
+            "imageId": 152866,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        },
+        {
+            "id": "9091",
+            "name": "Anisa Mohammed",
+            "imageId": 227423,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "9087",
+            "name": "Merissa Aguilleira",
+            "imageId": 157084,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "12772",
+            "name": "Reniece Boyce",
+            "imageId": 157217,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "11371",
+            "name": "Chedean Nation",
+            "imageId": 254962,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11253",
+            "name": "Shamilia Connell",
+            "imageId": 254984,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast"
+        },
+        {
+            "id": "11255",
+            "name": "Afy Fletcher",
+            "imageId": 254954,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9101",
+            "name": "Shakera Selman",
+            "imageId": 254982,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        }
+    ]
+}

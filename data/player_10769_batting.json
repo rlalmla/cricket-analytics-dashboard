@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "64",
+                "80",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "42",
+                "22",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "313",
+                "77",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "482",
+                "88",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "31",
+                "9",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "12.52",
+                "11",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "64.94",
+                "87.50",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "17",
+                "15",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "25",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "4",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "5",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Bernard Scholtz Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10769/bernard-scholtz"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

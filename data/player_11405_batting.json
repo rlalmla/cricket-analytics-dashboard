@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "23",
+                "28",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "11",
+                "13",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "153",
+                "72",
+                "149"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "156",
+                "85",
+                "105"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "39",
+                "12",
+                "40"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "25.5",
+                "18",
+                "37.25"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "98.08",
+                "84.71",
+                "141.91"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "5",
+                "9",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "12",
+                "5",
+                "20"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Nicola Carey Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11405/nicola-carey"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

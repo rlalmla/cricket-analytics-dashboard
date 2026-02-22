@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "6",
+                "117",
+                "114",
+                "136"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "9",
+                "89",
+                "70",
+                "68"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "154",
+                "1393",
+                "622",
+                "585"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "180",
+                "1328",
+                "470",
+                "365"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "51",
+                "60",
+                "48",
+                "79"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "17.11",
+                "19.08",
+                "14.81",
+                "13.93"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "85.56",
+                "104.90",
+                "132.35",
+                "160.28"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "16",
+                "28",
+                "26"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "18",
+                "120",
+                "41",
+                "41"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "4",
+                "50",
+                "40",
+                "41"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "8",
+                "8",
+                "16"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "5",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Rashid Khan Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10738/rashid-khan"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "id": "9082",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Harmanpreet Kaur",
+    "nickName": "Harmanpreet Kaur",
+    "role": "Batting Allrounder",
+    "birthPlace": "Punjab",
+    "intlTeam": "India",
+    "teams": "India Women, Sydney Thunder Women, Supernovas, Lancashire Thunder, India A Women, Manchester Super Giants Women, Melbourne Renegades Women, Mumbai Indians Women, Trent Rockets Women",
+    "DoB": "March 08, 1989 (36 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/9082.jpg",
+    "bio": "Her father's passion for the game rubbed off on Harmanpreet Kaur Bhullar, who has been sending the bowlers on a leather hunt since the gully cricket days in Moga, Punjab. Indian women's circuit has her childhood coach Kamaldish Singh Sodhi to thank, who instinctively decided to build a girls' team from scratch after spotting an otherwise timid girl plonk the balls out of the park so effortlessly. <br/>  <br/> Starting off as a medium pace all-rounder, Harmanpreet came up through the ranks, sooner than she'd hoped, on the back of consistent performances. Even before she could realise, Harmanpreet found herself in India's 2009 World T20 squad. Incidentally, the news of the national call-up reached her only through teammate Punam Raut, during a causal phone call. <br/>  <br/> But the real struggle started only after she got into the side. As an aspiring lead bowler, Harmanpreet only had to endure one frustrating day in the field after another thanks to the presence of stalwarts like Jhulan Goswami and Amita Sharma. That's when she put all her energies into developing her batting a notch above others, and soon became a go-to batter in crisis situations. On her father's insistence, Harmanpreet turned into an off-spinner, thus establishing herself as a vital cog in the side. <br/>  <br/> For someone who idolises the likes of Virender Sehwag, watching Ajinkya Rahane practice came to the rescue during a prolonged lean patch. Imbibing the values of patience, Hamranpreet remodelled her game, yet again, striking a perfect balance between aggression and caution. Learning, she says, never stops. <br/>  <br/> 2016-17 had been a breakthrough season for Harmanpreet who was handed the captaincy reigns in the wake of a disastrous World T20 campaign at home. Though she lost her first assignment in charge - a three-match home series against reigning world champions in the format, Windies - Harmanpreet led India to their sixth straight Asia Cup crown, without dropping a game soon after. <br/>  <br/> Harmanpreet became the first Indian cricketer, male or female, to be roped in by a foreign T20 league when as many as three WBBL teams calling to sign the aggressive middle order bat. She ended up with inaugural champions Sydney Thunder and won the franchise's Player of the Tournament award for her all-round show in the debut season. Months later, the T20 captain became the first Indian to sign up with Surrey Stars for the second edition of ECB's Women's Cricket League.",
+    "rankings": {
+        "bat": {
+            "odiRank": "14",
+            "t20Rank": "12",
+            "odiBestRank": "5",
+            "t20BestRank": "3",
+            "t20DiffRank": "+1"
+        },
+        "bowl": {
+            "odiBestRank": "49",
+            "t20BestRank": "47"
+        },
+        "all": {
+            "odiRank": "68",
+            "t20Rank": "92",
+            "odiBestRank": "30",
+            "t20BestRank": "10",
+            "t20DiffRank": "+2"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Harmanpreet Kaur Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9082/harmanpreet-kaur"
+    },
+    "DoBFormat": "March 08, 1989",
+    "faceImageId": 765842,
+    "teamNameIds": [
+        {
+            "teamId": "97",
+            "teamName": "India Women"
+        },
+        {
+            "teamId": "362",
+            "teamName": "Sydney Thunder Women"
+        },
+        {
+            "teamId": "447",
+            "teamName": "Supernovas"
+        },
+        {
+            "teamId": "420",
+            "teamName": "Lancashire Thunder"
+        },
+        {
+            "teamId": "440",
+            "teamName": "India A Women"
+        },
+        {
+            "teamId": "617",
+            "teamName": "Manchester Super Giants Women"
+        },
+        {
+            "teamId": "358",
+            "teamName": "Melbourne Renegades Women"
+        },
+        {
+            "teamId": "1468",
+            "teamName": "Mumbai Indians Women"
+        },
+        {
+            "teamId": "618",
+            "teamName": "Trent Rockets Women"
+        }
+    ],
+    "playerTeamIds": "97, 362, 447, 420, 440, 617, 358, 1468, 618",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "117029",
+                    "DNB",
+                    "AUSW",
+                    "T20I",
+                    "15 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/117029/ausw-vs-indw-1st-t20i-india-women-tour-of-australia-2026"
+            },
+            {
+                "values": [
+                    "139753",
+                    "82*(48)",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "20(12)",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "41(33)",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "18(21)",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "121549",
+                    "0-10",
+                    "AUSW",
+                    "ODI",
+                    "12 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121549/indw-vs-ausw-13th-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121521",
+                    "0-15",
+                    "RSAW",
+                    "ODI",
+                    "09 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121521/indw-vs-rsaw-10th-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "108689",
+                    "0-34",
+                    "NZW",
+                    "ODI",
+                    "29 Oct 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/108689/indw-vs-nzw-3rd-odi-new-zealand-women-tour-of-india-2024"
+            },
+            {
+                "values": [
+                    "94514",
+                    "0-9 & 1-31",
+                    "RSAW",
+                    "Test",
+                    "28 Jun 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/94514/indw-vs-rsaw-one-off-test-south-africa-women-tour-of-india-2024"
+            },
+            {
+                "values": [
+                    "94487",
+                    "0-17",
+                    "RSAW",
+                    "ODI",
+                    "16 Jun 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/94487/indw-vs-rsaw-1st-odi-icc-championship-match-south-africa-women-tour-of-india-2024"
+            }
+        ]
+    }
+}

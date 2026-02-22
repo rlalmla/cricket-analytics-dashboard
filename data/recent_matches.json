@@ -1,0 +1,2980 @@
+{
+    "typeMatches": [
+        {
+            "matchType": "International",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 11253,
+                        "seriesName": "ICC Men's T20 World Cup 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 139263,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "32nd Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771320600000",
+                                    "endDate": "1771333200000",
+                                    "state": "Complete",
+                                    "status": "Match abandoned due to rain (no toss)",
+                                    "team1": {
+                                        "teamId": 27,
+                                        "teamName": "Ireland",
+                                        "teamSName": "IRE",
+                                        "imageId": 839366
+                                    },
+                                    "team2": {
+                                        "teamId": 12,
+                                        "teamName": "Zimbabwe",
+                                        "teamSName": "ZIM",
+                                        "imageId": 776198
+                                    },
+                                    "venueInfo": {
+                                        "id": 254,
+                                        "ground": "Pallekele International Cricket Stadium",
+                                        "city": "Pallekele",
+                                        "timezone": "+05:30",
+                                        "latitude": "7.280691",
+                                        "longitude": "80.722493"
+                                    },
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Abandon",
+                                    "isFantasyEnabled": true
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139227,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "28th Match, Group D",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771219800000",
+                                    "endDate": "1771232400000",
+                                    "state": "Complete",
+                                    "status": "Afghanistan won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 7,
+                                        "teamName": "United Arab Emirates",
+                                        "teamSName": "UAE",
+                                        "imageId": 776242
+                                    },
+                                    "team2": {
+                                        "teamId": 96,
+                                        "teamName": "Afghanistan",
+                                        "teamSName": "AFG",
+                                        "imageId": 776177
+                                    },
+                                    "venueInfo": {
+                                        "id": 51,
+                                        "ground": "Arun Jaitley Stadium",
+                                        "city": "Delhi",
+                                        "timezone": "+05:30",
+                                        "latitude": "28.637891",
+                                        "longitude": "77.243073"
+                                    },
+                                    "currBatTeamId": 96,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "AFG Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 160,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 162,
+                                            "wickets": 5,
+                                            "overs": 19.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139186,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "24th Match, Group D",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771075800000",
+                                    "endDate": "1771088400000",
+                                    "state": "Complete",
+                                    "status": "South Africa won by 7 wkts",
+                                    "team1": {
+                                        "teamId": 13,
+                                        "teamName": "New Zealand",
+                                        "teamSName": "NZ",
+                                        "imageId": 776333
+                                    },
+                                    "team2": {
+                                        "teamId": 11,
+                                        "teamName": "South Africa",
+                                        "teamSName": "RSA",
+                                        "imageId": 776287
+                                    },
+                                    "venueInfo": {
+                                        "id": 50,
+                                        "ground": "Narendra Modi Stadium",
+                                        "city": "Ahmedabad",
+                                        "timezone": "+05:30",
+                                        "latitude": "23.091785",
+                                        "longitude": "72.597465"
+                                    },
+                                    "currBatTeamId": 11,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "RSA Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 175,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 178,
+                                            "wickets": 3,
+                                            "overs": 17.1
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139205,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "26th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771147800000",
+                                    "endDate": "1771160400000",
+                                    "state": "Complete",
+                                    "status": "United States of America won by 31 runs",
+                                    "team1": {
+                                        "teamId": 15,
+                                        "teamName": "United States of America",
+                                        "teamSName": "USA",
+                                        "imageId": 776186
+                                    },
+                                    "team2": {
+                                        "teamId": 161,
+                                        "teamName": "Namibia",
+                                        "teamSName": "NAM",
+                                        "imageId": 776326
+                                    },
+                                    "venueInfo": {
+                                        "id": 11,
+                                        "ground": "MA Chidambaram Stadium",
+                                        "city": "Chennai",
+                                        "timezone": "+05:30",
+                                        "latitude": "13.06282",
+                                        "longitude": "80.279274"
+                                    },
+                                    "currBatTeamId": 15,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "USA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 199,
+                                            "wickets": 4,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 168,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139230,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "29th Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771234200000",
+                                    "endDate": "1771246800000",
+                                    "state": "Complete",
+                                    "status": "England won by 24 runs",
+                                    "team1": {
+                                        "teamId": 9,
+                                        "teamName": "England",
+                                        "teamSName": "ENG",
+                                        "imageId": 776237
+                                    },
+                                    "team2": {
+                                        "teamId": 527,
+                                        "teamName": "Italy",
+                                        "teamSName": "ITA",
+                                        "imageId": 776295
+                                    },
+                                    "venueInfo": {
+                                        "id": 31,
+                                        "ground": "Eden Gardens",
+                                        "city": "Kolkata",
+                                        "timezone": "+05:30",
+                                        "latitude": "22.564527",
+                                        "longitude": "88.343247"
+                                    },
+                                    "currBatTeamId": 9,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "ENG Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 202,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 178,
+                                            "wickets": 10,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139175,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "23rd Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771061400000",
+                                    "endDate": "1771074000000",
+                                    "state": "Complete",
+                                    "status": "England won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 23,
+                                        "teamName": "Scotland",
+                                        "teamSName": "SCO",
+                                        "imageId": 776280
+                                    },
+                                    "team2": {
+                                        "teamId": 9,
+                                        "teamName": "England",
+                                        "teamSName": "ENG",
+                                        "imageId": 776237
+                                    },
+                                    "venueInfo": {
+                                        "id": 31,
+                                        "ground": "Eden Gardens",
+                                        "city": "Kolkata",
+                                        "timezone": "+05:30",
+                                        "latitude": "22.564527",
+                                        "longitude": "88.343247"
+                                    },
+                                    "currBatTeamId": 9,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "ENG Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 152,
+                                            "wickets": 10,
+                                            "overs": 19.4
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 155,
+                                            "wickets": 5,
+                                            "overs": 18.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139194,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "25th Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771133400000",
+                                    "endDate": "1771146000000",
+                                    "state": "Complete",
+                                    "status": "West Indies won by 9 wkts",
+                                    "team1": {
+                                        "teamId": 72,
+                                        "teamName": "Nepal",
+                                        "teamSName": "NEP",
+                                        "imageId": 776331
+                                    },
+                                    "team2": {
+                                        "teamId": 10,
+                                        "teamName": "West Indies",
+                                        "teamSName": "WI",
+                                        "imageId": 776191
+                                    },
+                                    "venueInfo": {
+                                        "id": 81,
+                                        "ground": "Wankhede Stadium",
+                                        "city": "Mumbai",
+                                        "timezone": "+05:30",
+                                        "latitude": "18.938956",
+                                        "longitude": "72.825719"
+                                    },
+                                    "currBatTeamId": 10,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "WI Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 133,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 134,
+                                            "wickets": 1,
+                                            "overs": 15.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139216,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "27th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771162200000",
+                                    "endDate": "1771174800000",
+                                    "state": "Complete",
+                                    "status": "India won by 61 runs",
+                                    "team1": {
+                                        "teamId": 2,
+                                        "teamName": "India",
+                                        "teamSName": "IND",
+                                        "imageId": 776162
+                                    },
+                                    "team2": {
+                                        "teamId": 3,
+                                        "teamName": "Pakistan",
+                                        "teamSName": "PAK",
+                                        "imageId": 776308
+                                    },
+                                    "venueInfo": {
+                                        "id": 15,
+                                        "ground": "R.Premadasa Stadium",
+                                        "city": "Colombo",
+                                        "timezone": "+05:30",
+                                        "latitude": "6.939966",
+                                        "longitude": "79.872222"
+                                    },
+                                    "currBatTeamId": 2,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "IND Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 175,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 114,
+                                            "wickets": 10,
+                                            "overs": 17.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139252,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "31st Match, Group D",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771306200000",
+                                    "endDate": "1771318800000",
+                                    "state": "Complete",
+                                    "status": "New Zealand won by 8 wkts",
+                                    "team1": {
+                                        "teamId": 26,
+                                        "teamName": "Canada",
+                                        "teamSName": "CAN",
+                                        "imageId": 776227
+                                    },
+                                    "team2": {
+                                        "teamId": 13,
+                                        "teamName": "New Zealand",
+                                        "teamSName": "NZ",
+                                        "imageId": 776333
+                                    },
+                                    "venueInfo": {
+                                        "id": 11,
+                                        "ground": "MA Chidambaram Stadium",
+                                        "city": "Chennai",
+                                        "timezone": "+05:30",
+                                        "latitude": "13.06282",
+                                        "longitude": "80.279274"
+                                    },
+                                    "currBatTeamId": 13,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "NZ Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 173,
+                                            "wickets": 4,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 176,
+                                            "wickets": 2,
+                                            "overs": 15.1
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139164,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "22nd Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771047000000",
+                                    "endDate": "1771059600000",
+                                    "state": "Complete",
+                                    "status": "Ireland won by 96 runs",
+                                    "team1": {
+                                        "teamId": 27,
+                                        "teamName": "Ireland",
+                                        "teamSName": "IRE",
+                                        "imageId": 839366
+                                    },
+                                    "team2": {
+                                        "teamId": 304,
+                                        "teamName": "Oman",
+                                        "teamSName": "OMAN",
+                                        "imageId": 776328
+                                    },
+                                    "venueInfo": {
+                                        "id": 14,
+                                        "ground": "Sinhalese Sports Club",
+                                        "city": "Colombo",
+                                        "timezone": "+05:30",
+                                        "latitude": "6.905929",
+                                        "longitude": "79.869403"
+                                    },
+                                    "currBatTeamId": 27,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "IRE Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 235,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 139,
+                                            "wickets": 10,
+                                            "overs": 17.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139274,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "33rd Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771335000000",
+                                    "endDate": "1771347600000",
+                                    "state": "Complete",
+                                    "status": "Nepal won by 7 wkts",
+                                    "team1": {
+                                        "teamId": 23,
+                                        "teamName": "Scotland",
+                                        "teamSName": "SCO",
+                                        "imageId": 776280
+                                    },
+                                    "team2": {
+                                        "teamId": 72,
+                                        "teamName": "Nepal",
+                                        "teamSName": "NEP",
+                                        "imageId": 776331
+                                    },
+                                    "venueInfo": {
+                                        "id": 81,
+                                        "ground": "Wankhede Stadium",
+                                        "city": "Mumbai",
+                                        "timezone": "+05:30",
+                                        "latitude": "18.938956",
+                                        "longitude": "72.825719"
+                                    },
+                                    "currBatTeamId": 72,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 170,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 171,
+                                            "wickets": 3,
+                                            "overs": 19.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139104,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "15th Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770816600000",
+                                    "endDate": "1770829200000",
+                                    "state": "Complete",
+                                    "status": "West Indies won by 30 runs",
+                                    "team1": {
+                                        "teamId": 10,
+                                        "teamName": "West Indies",
+                                        "teamSName": "WI",
+                                        "imageId": 776191
+                                    },
+                                    "team2": {
+                                        "teamId": 9,
+                                        "teamName": "England",
+                                        "teamSName": "ENG",
+                                        "imageId": 776237
+                                    },
+                                    "venueInfo": {
+                                        "id": 81,
+                                        "ground": "Wankhede Stadium",
+                                        "city": "Mumbai",
+                                        "timezone": "+05:30",
+                                        "latitude": "18.938956",
+                                        "longitude": "72.825719"
+                                    },
+                                    "currBatTeamId": 10,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "WI Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 196,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 166,
+                                            "wickets": 10,
+                                            "overs": 18.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139115,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "16th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770874200000",
+                                    "endDate": "1770886800000",
+                                    "state": "Complete",
+                                    "status": "Sri Lanka won by 105 runs",
+                                    "team1": {
+                                        "teamId": 5,
+                                        "teamName": "Sri Lanka",
+                                        "teamSName": "SL",
+                                        "imageId": 776254
+                                    },
+                                    "team2": {
+                                        "teamId": 304,
+                                        "teamName": "Oman",
+                                        "teamSName": "OMAN",
+                                        "imageId": 776328
+                                    },
+                                    "venueInfo": {
+                                        "id": 254,
+                                        "ground": "Pallekele International Cricket Stadium",
+                                        "city": "Pallekele",
+                                        "timezone": "+05:30",
+                                        "latitude": "7.280691",
+                                        "longitude": "80.722493"
+                                    },
+                                    "currBatTeamId": 5,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "SL Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 225,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 120,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139118,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "17th Match, Group C",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770888600000",
+                                    "endDate": "1770901200000",
+                                    "state": "Complete",
+                                    "status": "Italy won by 10 wkts",
+                                    "team1": {
+                                        "teamId": 72,
+                                        "teamName": "Nepal",
+                                        "teamSName": "NEP",
+                                        "imageId": 776331
+                                    },
+                                    "team2": {
+                                        "teamId": 527,
+                                        "teamName": "Italy",
+                                        "teamSName": "ITA",
+                                        "imageId": 776295
+                                    },
+                                    "venueInfo": {
+                                        "id": 81,
+                                        "ground": "Wankhede Stadium",
+                                        "city": "Mumbai",
+                                        "timezone": "+05:30",
+                                        "latitude": "18.938956",
+                                        "longitude": "72.825719"
+                                    },
+                                    "currBatTeamId": 527,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "ITA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 123,
+                                            "wickets": 10,
+                                            "overs": 19.3
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 124,
+                                            "overs": 12.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139241,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "30th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771248600000",
+                                    "endDate": "1771261200000",
+                                    "state": "Complete",
+                                    "status": "Sri Lanka won by 8 wkts",
+                                    "team1": {
+                                        "teamId": 4,
+                                        "teamName": "Australia",
+                                        "teamSName": "AUS",
+                                        "imageId": 776202
+                                    },
+                                    "team2": {
+                                        "teamId": 5,
+                                        "teamName": "Sri Lanka",
+                                        "teamSName": "SL",
+                                        "imageId": 776254
+                                    },
+                                    "venueInfo": {
+                                        "id": 254,
+                                        "ground": "Pallekele International Cricket Stadium",
+                                        "city": "Pallekele",
+                                        "timezone": "+05:30",
+                                        "latitude": "7.280691",
+                                        "longitude": "80.722493"
+                                    },
+                                    "currBatTeamId": 5,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "SL Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 181,
+                                            "wickets": 10,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 184,
+                                            "wickets": 2,
+                                            "overs": 17.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139093,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "14th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770802200000",
+                                    "endDate": "1770814800000",
+                                    "state": "Complete",
+                                    "status": "Australia won by 67 runs",
+                                    "team1": {
+                                        "teamId": 4,
+                                        "teamName": "Australia",
+                                        "teamSName": "AUS",
+                                        "imageId": 776202
+                                    },
+                                    "team2": {
+                                        "teamId": 27,
+                                        "teamName": "Ireland",
+                                        "teamSName": "IRE",
+                                        "imageId": 839366
+                                    },
+                                    "venueInfo": {
+                                        "id": 15,
+                                        "ground": "R.Premadasa Stadium",
+                                        "city": "Colombo",
+                                        "timezone": "+05:30",
+                                        "latitude": "6.939966",
+                                        "longitude": "79.872222"
+                                    },
+                                    "currBatTeamId": 4,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "AUS Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 182,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 115,
+                                            "wickets": 10,
+                                            "overs": 16.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139153,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "21st Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770989400000",
+                                    "endDate": "1771002000000",
+                                    "state": "Complete",
+                                    "status": "United States of America won by 93 runs",
+                                    "team1": {
+                                        "teamId": 15,
+                                        "teamName": "United States of America",
+                                        "teamSName": "USA",
+                                        "imageId": 776186
+                                    },
+                                    "team2": {
+                                        "teamId": 24,
+                                        "teamName": "Netherlands",
+                                        "teamSName": "NED",
+                                        "imageId": 776335
+                                    },
+                                    "venueInfo": {
+                                        "id": 11,
+                                        "ground": "MA Chidambaram Stadium",
+                                        "city": "Chennai",
+                                        "timezone": "+05:30",
+                                        "latitude": "13.06282",
+                                        "longitude": "80.279274"
+                                    },
+                                    "currBatTeamId": 15,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "USA Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 196,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 103,
+                                            "wickets": 10,
+                                            "overs": 15.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139084,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "13th Match, Group D",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770787800000",
+                                    "endDate": "1770800400000",
+                                    "state": "Complete",
+                                    "status": "Match tied and 1st Super over tied (SA won 2nd Super Over)",
+                                    "team1": {
+                                        "teamId": 11,
+                                        "teamName": "South Africa",
+                                        "teamSName": "RSA",
+                                        "imageId": 776287
+                                    },
+                                    "team2": {
+                                        "teamId": 96,
+                                        "teamName": "Afghanistan",
+                                        "teamSName": "AFG",
+                                        "imageId": 776177
+                                    },
+                                    "venueInfo": {
+                                        "id": 50,
+                                        "ground": "Narendra Modi Stadium",
+                                        "city": "Ahmedabad",
+                                        "timezone": "+05:30",
+                                        "latitude": "23.091785",
+                                        "longitude": "72.597465"
+                                    },
+                                    "currBatTeamId": 11,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "RSA Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 187,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 187,
+                                            "wickets": 10,
+                                            "overs": 19.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139142,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "20th Match, Group D",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770975000000",
+                                    "endDate": "1770987600000",
+                                    "state": "Complete",
+                                    "status": "United Arab Emirates won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 26,
+                                        "teamName": "Canada",
+                                        "teamSName": "CAN",
+                                        "imageId": 776227
+                                    },
+                                    "team2": {
+                                        "teamId": 7,
+                                        "teamName": "United Arab Emirates",
+                                        "teamSName": "UAE",
+                                        "imageId": 776242
+                                    },
+                                    "venueInfo": {
+                                        "id": 51,
+                                        "ground": "Arun Jaitley Stadium",
+                                        "city": "Delhi",
+                                        "timezone": "+05:30",
+                                        "latitude": "28.637891",
+                                        "longitude": "77.243073"
+                                    },
+                                    "currBatTeamId": 7,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "UAE Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 150,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 151,
+                                            "wickets": 5,
+                                            "overs": 19.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139129,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "18th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770903000000",
+                                    "endDate": "1770915600000",
+                                    "state": "Complete",
+                                    "status": "India won by 93 runs",
+                                    "team1": {
+                                        "teamId": 2,
+                                        "teamName": "India",
+                                        "teamSName": "IND",
+                                        "imageId": 776162
+                                    },
+                                    "team2": {
+                                        "teamId": 161,
+                                        "teamName": "Namibia",
+                                        "teamSName": "NAM",
+                                        "imageId": 776326
+                                    },
+                                    "venueInfo": {
+                                        "id": 51,
+                                        "ground": "Arun Jaitley Stadium",
+                                        "city": "Delhi",
+                                        "timezone": "+05:30",
+                                        "latitude": "28.637891",
+                                        "longitude": "77.243073"
+                                    },
+                                    "currBatTeamId": 2,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "IND Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 209,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 116,
+                                            "wickets": 10,
+                                            "overs": 18.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 139140,
+                                    "seriesId": 11253,
+                                    "seriesName": "ICC Men's T20 World Cup 2026",
+                                    "matchDesc": "19th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770960600000",
+                                    "endDate": "1770973200000",
+                                    "state": "Complete",
+                                    "status": "Zimbabwe won by 23 runs",
+                                    "team1": {
+                                        "teamId": 12,
+                                        "teamName": "Zimbabwe",
+                                        "teamSName": "ZIM",
+                                        "imageId": 776198
+                                    },
+                                    "team2": {
+                                        "teamId": 4,
+                                        "teamName": "Australia",
+                                        "teamSName": "AUS",
+                                        "imageId": 776202
+                                    },
+                                    "venueInfo": {
+                                        "id": 15,
+                                        "ground": "R.Premadasa Stadium",
+                                        "city": "Colombo",
+                                        "timezone": "+05:30",
+                                        "latitude": "6.939966",
+                                        "longitude": "79.872222"
+                                    },
+                                    "currBatTeamId": 12,
+                                    "seriesStartDt": "1770422400000",
+                                    "seriesEndDt": "1773100800000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "ZIM Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 169,
+                                            "wickets": 2,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 146,
+                                            "wickets": 10,
+                                            "overs": 19.3
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 11528,
+                        "seriesName": "Bahrain tour of Qatar 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 146883,
+                                    "seriesId": 11528,
+                                    "seriesName": "Bahrain tour of Qatar 2026",
+                                    "matchDesc": "4th T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771074000000",
+                                    "endDate": "1771086600000",
+                                    "state": "Complete",
+                                    "status": "Bahrain won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 525,
+                                        "teamName": "Qatar",
+                                        "teamSName": "QAT",
+                                        "imageId": 172575
+                                    },
+                                    "team2": {
+                                        "teamId": 543,
+                                        "teamName": "Bahrain",
+                                        "teamSName": "BHR",
+                                        "imageId": 172594
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 543,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1771286400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "BHR Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 187,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 191,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 146894,
+                                    "seriesId": 11528,
+                                    "seriesName": "Bahrain tour of Qatar 2026",
+                                    "matchDesc": "5th T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771160400000",
+                                    "endDate": "1771173000000",
+                                    "state": "Complete",
+                                    "status": "Qatar won by 51 runs",
+                                    "team1": {
+                                        "teamId": 525,
+                                        "teamName": "Qatar",
+                                        "teamSName": "QAT",
+                                        "imageId": 172575
+                                    },
+                                    "team2": {
+                                        "teamId": 543,
+                                        "teamName": "Bahrain",
+                                        "teamSName": "BHR",
+                                        "imageId": 172594
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 525,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1771286400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "QAT Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 205,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 154,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 146872,
+                                    "seriesId": 11528,
+                                    "seriesName": "Bahrain tour of Qatar 2026",
+                                    "matchDesc": "3rd T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770975000000",
+                                    "endDate": "1770987600000",
+                                    "state": "Complete",
+                                    "status": "Qatar won by 31 runs",
+                                    "team1": {
+                                        "teamId": 525,
+                                        "teamName": "Qatar",
+                                        "teamSName": "QAT",
+                                        "imageId": 172575
+                                    },
+                                    "team2": {
+                                        "teamId": 543,
+                                        "teamName": "Bahrain",
+                                        "teamSName": "BHR",
+                                        "imageId": 172594
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 525,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1771286400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "QAT Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 201,
+                                            "wickets": 4,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 170,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 146861,
+                                    "seriesId": 11528,
+                                    "seriesName": "Bahrain tour of Qatar 2026",
+                                    "matchDesc": "2nd T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770814800000",
+                                    "endDate": "1770827400000",
+                                    "state": "Complete",
+                                    "status": "Qatar won by 51 runs",
+                                    "team1": {
+                                        "teamId": 525,
+                                        "teamName": "Qatar",
+                                        "teamSName": "QAT",
+                                        "imageId": 172575
+                                    },
+                                    "team2": {
+                                        "teamId": 543,
+                                        "teamName": "Bahrain",
+                                        "teamSName": "BHR",
+                                        "imageId": 172594
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 525,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1771286400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "QAT Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 215,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 164,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "matchType": "Domestic",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10724,
+                        "seriesName": "The Ford Trophy 2025-26",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 132120,
+                                    "seriesId": 10724,
+                                    "seriesName": "The Ford Trophy 2025-26",
+                                    "matchDesc": "28th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1771277400000",
+                                    "endDate": "1771306200000",
+                                    "state": "Complete",
+                                    "status": "Auckland won by 6 wkts",
+                                    "team1": {
+                                        "teamId": 105,
+                                        "teamName": "Otago",
+                                        "teamSName": "OTG",
+                                        "imageId": 172197
+                                    },
+                                    "team2": {
+                                        "teamId": 186,
+                                        "teamName": "Auckland",
+                                        "teamSName": "AKL",
+                                        "imageId": 172246
+                                    },
+                                    "venueInfo": {
+                                        "id": 82,
+                                        "ground": "John Davies Oval",
+                                        "city": "Queenstown",
+                                        "timezone": "+13:00",
+                                        "latitude": "-45.016205",
+                                        "longitude": "168.738638"
+                                    },
+                                    "currBatTeamId": 186,
+                                    "seriesStartDt": "1761350400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 158,
+                                            "wickets": 10,
+                                            "overs": 43.3
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 161,
+                                            "wickets": 4,
+                                            "overs": 23.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 132131,
+                                    "seriesId": 10724,
+                                    "seriesName": "The Ford Trophy 2025-26",
+                                    "matchDesc": "29th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1771277400000",
+                                    "endDate": "1771306200000",
+                                    "state": "Complete",
+                                    "status": "Central Districts won by 22 runs",
+                                    "team1": {
+                                        "teamId": 313,
+                                        "teamName": "Central Districts",
+                                        "teamSName": "CD",
+                                        "imageId": 172363
+                                    },
+                                    "team2": {
+                                        "teamId": 312,
+                                        "teamName": "Canterbury",
+                                        "teamSName": "CNTBRY",
+                                        "imageId": 172362
+                                    },
+                                    "venueInfo": {
+                                        "id": 372,
+                                        "ground": "Saxton Oval",
+                                        "city": "Nelson",
+                                        "timezone": "+13:00",
+                                        "latitude": "-41.322788",
+                                        "longitude": "173.213882"
+                                    },
+                                    "currBatTeamId": 313,
+                                    "seriesStartDt": "1761350400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 276,
+                                            "wickets": 8,
+                                            "overs": 49.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 254,
+                                            "wickets": 10,
+                                            "overs": 48.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 132093,
+                                    "seriesId": 10724,
+                                    "seriesName": "The Ford Trophy 2025-26",
+                                    "matchDesc": "25th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1770931800000",
+                                    "endDate": "1770960600000",
+                                    "state": "Complete",
+                                    "status": "No result  -  due to rain",
+                                    "team1": {
+                                        "teamId": 105,
+                                        "teamName": "Otago",
+                                        "teamSName": "OTG",
+                                        "imageId": 172197
+                                    },
+                                    "team2": {
+                                        "teamId": 313,
+                                        "teamName": "Central Districts",
+                                        "teamSName": "CD",
+                                        "imageId": 172363
+                                    },
+                                    "venueInfo": {
+                                        "id": 372,
+                                        "ground": "Saxton Oval",
+                                        "city": "Nelson",
+                                        "timezone": "+13:00",
+                                        "latitude": "-41.322788",
+                                        "longitude": "173.213882"
+                                    },
+                                    "seriesStartDt": "1761350400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 8,
+                                            "overs": 1.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 132104,
+                                    "seriesId": 10724,
+                                    "seriesName": "The Ford Trophy 2025-26",
+                                    "matchDesc": "26th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1770931800000",
+                                    "endDate": "1770960600000",
+                                    "state": "Complete",
+                                    "status": "Canterbury won by 8 wkts",
+                                    "team1": {
+                                        "teamId": 314,
+                                        "teamName": "Wellington",
+                                        "teamSName": "WEL",
+                                        "imageId": 172364
+                                    },
+                                    "team2": {
+                                        "teamId": 312,
+                                        "teamName": "Canterbury",
+                                        "teamSName": "CNTBRY",
+                                        "imageId": 172362
+                                    },
+                                    "venueInfo": {
+                                        "id": 371,
+                                        "ground": "Hagley Oval",
+                                        "city": "Christchurch",
+                                        "timezone": "+13:00",
+                                        "latitude": "-43.535831",
+                                        "longitude": "172.624863"
+                                    },
+                                    "currBatTeamId": 312,
+                                    "seriesStartDt": "1761350400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "CNTBRY Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 68,
+                                            "wickets": 10,
+                                            "overs": 22.2
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 69,
+                                            "wickets": 2,
+                                            "overs": 11.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 132109,
+                                    "seriesId": 10724,
+                                    "seriesName": "The Ford Trophy 2025-26",
+                                    "matchDesc": "27th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1770931800000",
+                                    "endDate": "1770960600000",
+                                    "state": "Complete",
+                                    "status": "No result  -  due to rain",
+                                    "team1": {
+                                        "teamId": 294,
+                                        "teamName": "Northern Districts",
+                                        "teamSName": "ND",
+                                        "imageId": 172343
+                                    },
+                                    "team2": {
+                                        "teamId": 186,
+                                        "teamName": "Auckland",
+                                        "teamSName": "AKL",
+                                        "imageId": 172246
+                                    },
+                                    "venueInfo": {
+                                        "id": 281,
+                                        "ground": "Cobham Oval (New)",
+                                        "city": "Whangarei",
+                                        "timezone": "+12:00",
+                                        "latitude": "-35.725112",
+                                        "longitude": "174.323708"
+                                    },
+                                    "seriesStartDt": "1761350400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "wickets": 1,
+                                            "overs": 0.2
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10878,
+                        "seriesName": "CSA Four-Day Series Division One 2025-26",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 134084,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "28th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1770624000000",
+                                    "endDate": "1770908400000",
+                                    "state": "Complete",
+                                    "status": "Lions won by an innings and 270 runs",
+                                    "team1": {
+                                        "teamId": 1766,
+                                        "teamName": "KwaZulu-Natal Inland - Tuskers",
+                                        "teamSName": "KZNIN",
+                                        "imageId": 349611
+                                    },
+                                    "team2": {
+                                        "teamId": 157,
+                                        "teamName": "Lions",
+                                        "teamSName": "LIONS",
+                                        "imageId": 172224
+                                    },
+                                    "venueInfo": {
+                                        "id": 88,
+                                        "ground": "The Wanderers Stadium",
+                                        "city": "Johannesburg",
+                                        "timezone": "+02:00",
+                                        "latitude": "-26.131141",
+                                        "longitude": "28.057397"
+                                    },
+                                    "currBatTeamId": 157,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "LIONS Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 63,
+                                            "wickets": 10,
+                                            "overs": 22.5
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 225,
+                                            "wickets": 10,
+                                            "overs": 73.3
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 558,
+                                            "wickets": 5,
+                                            "overs": 107.4,
+                                            "isDeclared": true
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 134067,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "26th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1770624000000",
+                                    "endDate": "1770908400000",
+                                    "state": "Complete",
+                                    "status": "Titans won by 9 wkts",
+                                    "team1": {
+                                        "teamId": 917,
+                                        "teamName": "Western Province",
+                                        "teamSName": "WPR",
+                                        "imageId": 248460
+                                    },
+                                    "team2": {
+                                        "teamId": 89,
+                                        "teamName": "Titans",
+                                        "teamSName": "TIT",
+                                        "imageId": 172182
+                                    },
+                                    "venueInfo": {
+                                        "id": 52,
+                                        "ground": "Newlands",
+                                        "city": "Cape Town",
+                                        "timezone": "+02:00",
+                                        "latitude": "-33.979629",
+                                        "longitude": "18.459466"
+                                    },
+                                    "currBatTeamId": 89,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "TIT Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 241,
+                                            "wickets": 10,
+                                            "overs": 58.2
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 228,
+                                            "wickets": 10,
+                                            "overs": 58.4
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 306,
+                                            "wickets": 10,
+                                            "overs": 102.5
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 164,
+                                            "wickets": 1,
+                                            "overs": 38.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 134056,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "25th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1770624000000",
+                                    "endDate": "1770908400000",
+                                    "state": "Complete",
+                                    "status": "Boland won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 922,
+                                        "teamName": "North West - Eastvaal Renault Dragons",
+                                        "teamSName": "NWEST",
+                                        "imageId": 248439
+                                    },
+                                    "team2": {
+                                        "teamId": 1759,
+                                        "teamName": "Boland",
+                                        "teamSName": "BOL",
+                                        "imageId": 349610
+                                    },
+                                    "venueInfo": {
+                                        "id": 207,
+                                        "ground": "Boland Park",
+                                        "city": "Paarl",
+                                        "timezone": "+02:00",
+                                        "latitude": "-33.730900",
+                                        "longitude": "18.970760"
+                                    },
+                                    "currBatTeamId": 1759,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "BOL Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 434,
+                                            "wickets": 10,
+                                            "overs": 115.4
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 304,
+                                            "wickets": 9,
+                                            "overs": 73.4,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 416,
+                                            "wickets": 10,
+                                            "overs": 120.5
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 323,
+                                            "wickets": 5,
+                                            "overs": 68.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 134078,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "27th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1770620400000",
+                                    "endDate": "1770904800000",
+                                    "state": "Complete",
+                                    "status": "Dolphins won by 2 wkts",
+                                    "team1": {
+                                        "teamId": 155,
+                                        "teamName": "Warriors",
+                                        "teamSName": "WAR",
+                                        "imageId": 172222
+                                    },
+                                    "team2": {
+                                        "teamId": 90,
+                                        "teamName": "Dolphins",
+                                        "teamSName": "DOL",
+                                        "imageId": 172183
+                                    },
+                                    "venueInfo": {
+                                        "id": 74,
+                                        "ground": "Kingsmead",
+                                        "city": "Durban",
+                                        "timezone": "+02:00",
+                                        "latitude": "-29.850018",
+                                        "longitude": "31.027888"
+                                    },
+                                    "currBatTeamId": 90,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "DOL Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 380,
+                                            "wickets": 10,
+                                            "overs": 106.3
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 237,
+                                            "wickets": 5,
+                                            "overs": 54.2,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 253,
+                                            "wickets": 10,
+                                            "overs": 65.4
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 370,
+                                            "wickets": 8,
+                                            "overs": 92.3
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "matchType": "Women",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 9611,
+                        "seriesName": "India Women tour of Australia, 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 117029,
+                                    "seriesId": 9611,
+                                    "seriesName": "India Women tour of Australia, 2026",
+                                    "matchDesc": "1st T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771143300000",
+                                    "endDate": "1771155900000",
+                                    "state": "Complete",
+                                    "status": "India Women won by 21 runs (DLS method)",
+                                    "team1": {
+                                        "teamId": 100,
+                                        "teamName": "Australia Women",
+                                        "teamSName": "AUSW",
+                                        "imageId": 776205
+                                    },
+                                    "team2": {
+                                        "teamId": 97,
+                                        "teamName": "India Women",
+                                        "teamSName": "INDW",
+                                        "imageId": 776182
+                                    },
+                                    "venueInfo": {
+                                        "id": 34,
+                                        "ground": "Sydney Cricket Ground",
+                                        "city": "Sydney",
+                                        "timezone": "+11:00",
+                                        "latitude": "-33.868820",
+                                        "longitude": "151.209296"
+                                    },
+                                    "currBatTeamId": 97,
+                                    "seriesStartDt": "1771113600000",
+                                    "seriesEndDt": "1772928000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "INDW Won",
+                                    "isFantasyEnabled": true
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 133,
+                                            "wickets": 10,
+                                            "overs": 17.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 50,
+                                            "wickets": 1,
+                                            "overs": 5.1
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ad": {
+                        "name": "native_matches",
+                        "layout": "native_large",
+                        "position": 5
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 11452,
+                        "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 144298,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "6th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771138800000",
+                                    "endDate": "1771151400000",
+                                    "state": "Complete",
+                                    "status": "India A Women won by 8 wkts",
+                                    "team1": {
+                                        "teamId": 1552,
+                                        "teamName": "Pakistan A Women",
+                                        "teamSName": "PAKWA",
+                                        "imageId": 776324
+                                    },
+                                    "team2": {
+                                        "teamId": 440,
+                                        "teamName": "India A Women",
+                                        "teamSName": "INDWA",
+                                        "imageId": 776184
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 440,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "INDWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 93,
+                                            "wickets": 10,
+                                            "overs": 18.5
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 97,
+                                            "wickets": 2,
+                                            "overs": 10.1
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144266,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "3rd Match, Group B ",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771036200000",
+                                    "endDate": "1771048800000",
+                                    "state": "Complete",
+                                    "status": "Thailand Women won by 99 runs",
+                                    "team1": {
+                                        "teamId": 382,
+                                        "teamName": "Thailand Women",
+                                        "teamSName": "THAIW",
+                                        "imageId": 172435
+                                    },
+                                    "team2": {
+                                        "teamId": 445,
+                                        "teamName": "Malaysia Women",
+                                        "teamSName": "MLYW",
+                                        "imageId": 776323
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 382,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "THAIW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 169,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 70,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144321,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "9th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771295400000",
+                                    "endDate": "1771308000000",
+                                    "state": "Complete",
+                                    "status": "India A Women won by 7 wkts",
+                                    "team1": {
+                                        "teamId": 383,
+                                        "teamName": "Nepal Women",
+                                        "teamSName": "NEPW",
+                                        "imageId": 776189
+                                    },
+                                    "team2": {
+                                        "teamId": 440,
+                                        "teamName": "India A Women",
+                                        "teamSName": "INDWA",
+                                        "imageId": 776184
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 440,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "INDWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 78,
+                                            "wickets": 10,
+                                            "overs": 17.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 82,
+                                            "wickets": 3,
+                                            "overs": 7.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144329,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "10th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771311600000",
+                                    "endDate": "1771324200000",
+                                    "state": "Complete",
+                                    "status": "Pakistan A Women won by 9 wkts",
+                                    "team1": {
+                                        "teamId": 449,
+                                        "teamName": "United Arab Emirates Women",
+                                        "teamSName": "UAEW",
+                                        "imageId": 776246
+                                    },
+                                    "team2": {
+                                        "teamId": 1552,
+                                        "teamName": "Pakistan A Women",
+                                        "teamSName": "PAKWA",
+                                        "imageId": 776324
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 1552,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 79,
+                                            "wickets": 10,
+                                            "overs": 17.2
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 81,
+                                            "wickets": 1,
+                                            "overs": 10.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144299,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "7th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771209000000",
+                                    "endDate": "1771221600000",
+                                    "state": "Complete",
+                                    "status": "Sri Lanka A Women won by 106 runs",
+                                    "team1": {
+                                        "teamId": 1556,
+                                        "teamName": "Sri Lanka A Women",
+                                        "teamSName": "SLWA",
+                                        "imageId": 776273
+                                    },
+                                    "team2": {
+                                        "teamId": 445,
+                                        "teamName": "Malaysia Women",
+                                        "teamSName": "MLYW",
+                                        "imageId": 776323
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 1556,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "SLWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 172,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 66,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144287,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "5th Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771122600000",
+                                    "endDate": "1771135200000",
+                                    "state": "Complete",
+                                    "status": "United Arab Emirates Women won by 18 runs",
+                                    "team1": {
+                                        "teamId": 449,
+                                        "teamName": "United Arab Emirates Women",
+                                        "teamSName": "UAEW",
+                                        "imageId": 776246
+                                    },
+                                    "team2": {
+                                        "teamId": 383,
+                                        "teamName": "Nepal Women",
+                                        "teamSName": "NEPW",
+                                        "imageId": 776189
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 449,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "UAEW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 189,
+                                            "wickets": 4,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 171,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144255,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "2nd Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770966000000",
+                                    "endDate": "1770978600000",
+                                    "state": "Complete",
+                                    "status": "United Arab Emirates Women won by 7 wkts",
+                                    "team1": {
+                                        "teamId": 440,
+                                        "teamName": "India A Women",
+                                        "teamSName": "INDWA",
+                                        "imageId": 776184
+                                    },
+                                    "team2": {
+                                        "teamId": 449,
+                                        "teamName": "United Arab Emirates Women",
+                                        "teamSName": "UAEW",
+                                        "imageId": 776246
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 449,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "UAEW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 130,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 131,
+                                            "wickets": 3,
+                                            "overs": 19.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144310,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "8th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771225200000",
+                                    "endDate": "1771237800000",
+                                    "state": "Complete",
+                                    "status": "Bangladesh A Women won by 3 wkts",
+                                    "team1": {
+                                        "teamId": 382,
+                                        "teamName": "Thailand Women",
+                                        "teamSName": "THAIW",
+                                        "imageId": 172435
+                                    },
+                                    "team2": {
+                                        "teamId": 1549,
+                                        "teamName": "Bangladesh A Women",
+                                        "teamSName": "BANWA",
+                                        "imageId": 776216
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 1549,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "BANWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 103,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 104,
+                                            "wickets": 7,
+                                            "overs": 19.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144244,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "1st Match, Group A",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770949800000",
+                                    "endDate": "1770962400000",
+                                    "state": "Complete",
+                                    "status": "Pakistan A Women won by 30 runs",
+                                    "team1": {
+                                        "teamId": 1552,
+                                        "teamName": "Pakistan A Women",
+                                        "teamSName": "PAKWA",
+                                        "imageId": 776324
+                                    },
+                                    "team2": {
+                                        "teamId": 383,
+                                        "teamName": "Nepal Women",
+                                        "teamSName": "NEPW",
+                                        "imageId": 776189
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 1552,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "PAKWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 137,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 107,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 144277,
+                                    "seriesId": 11452,
+                                    "seriesName": "ACC Women's Asia Cup Rising Stars 2026",
+                                    "matchDesc": "4th Match, Group B",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771052400000",
+                                    "endDate": "1771065000000",
+                                    "state": "Complete",
+                                    "status": "Bangladesh A Women won by 4 runs",
+                                    "team1": {
+                                        "teamId": 1549,
+                                        "teamName": "Bangladesh A Women",
+                                        "teamSName": "BANWA",
+                                        "imageId": 776216
+                                    },
+                                    "team2": {
+                                        "teamId": 1556,
+                                        "teamName": "Sri Lanka A Women",
+                                        "teamSName": "SLWA",
+                                        "imageId": 776273
+                                    },
+                                    "venueInfo": {
+                                        "id": 474,
+                                        "ground": "Terdthai Cricket Ground",
+                                        "city": "Bangkok",
+                                        "timezone": "+07:00",
+                                        "latitude": "13.756331",
+                                        "longitude": "100.501765"
+                                    },
+                                    "currBatTeamId": 1549,
+                                    "seriesStartDt": "1770940800000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "BANWA Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 115,
+                                            "wickets": 10,
+                                            "overs": 19.5
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 111,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10146,
+                        "seriesName": "Pakistan Women tour of South Africa, 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 122165,
+                                    "seriesId": 10146,
+                                    "seriesName": "Pakistan Women tour of South Africa, 2026",
+                                    "matchDesc": "2nd T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770998400000",
+                                    "endDate": "1771011000000",
+                                    "state": "Complete",
+                                    "status": "South Africa Women won by 6 wkts",
+                                    "team1": {
+                                        "teamId": 259,
+                                        "teamName": "Pakistan Women",
+                                        "teamSName": "PAKW",
+                                        "imageId": 776311
+                                    },
+                                    "team2": {
+                                        "teamId": 260,
+                                        "teamName": "South Africa Women",
+                                        "teamSName": "RSAW",
+                                        "imageId": 776293
+                                    },
+                                    "venueInfo": {
+                                        "id": 135,
+                                        "ground": "Willowmoore Park",
+                                        "city": "Benoni",
+                                        "timezone": "+02:00",
+                                        "latitude": "55.430751",
+                                        "longitude": "-4.634697"
+                                    },
+                                    "currBatTeamId": 260,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1772496000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "RSAW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 100,
+                                            "wickets": 9,
+                                            "overs": 13.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 104,
+                                            "wickets": 4,
+                                            "overs": 13.2
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 122170,
+                                    "seriesId": 10146,
+                                    "seriesName": "Pakistan Women tour of South Africa, 2026",
+                                    "matchDesc": "3rd T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771257600000",
+                                    "endDate": "1771270200000",
+                                    "state": "Complete",
+                                    "status": "Pakistan Women won by 53 runs",
+                                    "team1": {
+                                        "teamId": 259,
+                                        "teamName": "Pakistan Women",
+                                        "teamSName": "PAKW",
+                                        "imageId": 776311
+                                    },
+                                    "team2": {
+                                        "teamId": 260,
+                                        "teamName": "South Africa Women",
+                                        "teamSName": "RSAW",
+                                        "imageId": 776293
+                                    },
+                                    "venueInfo": {
+                                        "id": 148,
+                                        "ground": "Diamond Oval",
+                                        "city": "Kimberley",
+                                        "timezone": "+02:00",
+                                        "latitude": "-28.742487",
+                                        "longitude": "24.742101"
+                                    },
+                                    "currBatTeamId": 259,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1772496000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "PAKW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 144,
+                                            "wickets": 7,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 91,
+                                            "wickets": 10,
+                                            "overs": 16.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 122159,
+                                    "seriesId": 10146,
+                                    "seriesName": "Pakistan Women tour of South Africa, 2026",
+                                    "matchDesc": "1st T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770739200000",
+                                    "endDate": "1770751800000",
+                                    "state": "Complete",
+                                    "status": "South Africa Women won by 5 wkts",
+                                    "team1": {
+                                        "teamId": 259,
+                                        "teamName": "Pakistan Women",
+                                        "teamSName": "PAKW",
+                                        "imageId": 776311
+                                    },
+                                    "team2": {
+                                        "teamId": 260,
+                                        "teamName": "South Africa Women",
+                                        "teamSName": "RSAW",
+                                        "imageId": 776293
+                                    },
+                                    "venueInfo": {
+                                        "id": 102,
+                                        "ground": "Senwes Park",
+                                        "city": "Potchefstroom",
+                                        "timezone": "+02:00",
+                                        "latitude": "-26.695565",
+                                        "longitude": "27.100691"
+                                    },
+                                    "currBatTeamId": 260,
+                                    "seriesStartDt": "1770681600000",
+                                    "seriesEndDt": "1772496000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "RSAW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 180,
+                                            "wickets": 9,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 185,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 11531,
+                        "seriesName": "Oman Women tour of Qatar 2026",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 146936,
+                                    "seriesId": 11531,
+                                    "seriesName": "Oman Women tour of Qatar 2026",
+                                    "matchDesc": "5th T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1771056000000",
+                                    "endDate": "1771068600000",
+                                    "state": "Complete",
+                                    "status": "Qatar Women won by 7 runs",
+                                    "team1": {
+                                        "teamId": 485,
+                                        "teamName": "Qatar Women",
+                                        "teamSName": "QATW",
+                                        "imageId": 172533
+                                    },
+                                    "team2": {
+                                        "teamId": 505,
+                                        "teamName": "Oman Women",
+                                        "teamSName": "OMANW",
+                                        "imageId": 776330
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 485,
+                                    "seriesStartDt": "1770595200000",
+                                    "seriesEndDt": "1771200000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "QATW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 102,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 95,
+                                            "wickets": 10,
+                                            "overs": 19.1
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 146914,
+                                    "seriesId": 11531,
+                                    "seriesName": "Oman Women tour of Qatar 2026",
+                                    "matchDesc": "3rd T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770890400000",
+                                    "endDate": "1770903000000",
+                                    "state": "Complete",
+                                    "status": "Oman Women won by 41 runs",
+                                    "team1": {
+                                        "teamId": 505,
+                                        "teamName": "Oman Women",
+                                        "teamSName": "OMANW",
+                                        "imageId": 776330
+                                    },
+                                    "team2": {
+                                        "teamId": 485,
+                                        "teamName": "Qatar Women",
+                                        "teamSName": "QATW",
+                                        "imageId": 172533
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 505,
+                                    "seriesStartDt": "1770595200000",
+                                    "seriesEndDt": "1771200000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "OMANW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 155,
+                                            "wickets": 6,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 114,
+                                            "wickets": 5,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 146925,
+                                    "seriesId": 11531,
+                                    "seriesName": "Oman Women tour of Qatar 2026",
+                                    "matchDesc": "4th T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1770994800000",
+                                    "endDate": "1771007400000",
+                                    "state": "Complete",
+                                    "status": "Oman Women won by 8 wkts",
+                                    "team1": {
+                                        "teamId": 485,
+                                        "teamName": "Qatar Women",
+                                        "teamSName": "QATW",
+                                        "imageId": 172533
+                                    },
+                                    "team2": {
+                                        "teamId": 505,
+                                        "teamName": "Oman Women",
+                                        "teamSName": "OMANW",
+                                        "imageId": 776330
+                                    },
+                                    "venueInfo": {
+                                        "id": 582,
+                                        "ground": "West End Park International Cricket Stadium",
+                                        "city": "Doha",
+                                        "timezone": "+03:00",
+                                        "latitude": "25.189391",
+                                        "longitude": "51.460211"
+                                    },
+                                    "currBatTeamId": 505,
+                                    "seriesStartDt": "1770595200000",
+                                    "seriesEndDt": "1771200000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "OMANW Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 94,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 95,
+                                            "wickets": 2,
+                                            "overs": 12.2
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "filters": {
+        "matchType": [
+            "International",
+            "League",
+            "Domestic",
+            "Women"
+        ]
+    },
+    "appIndex": {
+        "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+        "webURL": "www.cricbuzz.com/live-cricket-scores/"
+    },
+    "responseLastUpdated": "1771350728"
+}

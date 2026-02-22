@@ -1,0 +1,191 @@
+{
+    "id": "11326",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Sneh Rana",
+    "nickName": "Sneh Rana",
+    "role": "Bowling Allrounder",
+    "birthPlace": "Dehra Dun, Uttarakhand",
+    "intlTeam": "India",
+    "teams": "India Women, India Women Green, India A Women, Velocity, India D Women, Gujarat Giants Women, Royal Challengers Bengaluru Women, Delhi Capitals Women",
+    "DoB": "February 18, 1994 (31 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/11326.jpg",
+    "bio": "A glorious moment of redemption with a personal tragedy in the backdrop was the defining moment of Sneh Rana\u2019s career. After spending five years in the wilderness, Rana, a spin-bowling all-rounder, left a lasting impression in what was her international comeback and Test debut. In the only Test against England at Bristol in 2021, Rana picked up 4/131 after bowling 39.2 overs and backed it up with a gritty 80* off 154 as the two teams settled for a hard-fought draw. She did all this with her father, who had passed away just two months earlier, always in her thoughts.  <br/>  <br/> Hailing from the mountainous town of Dehradun in Uttarakhand, Rana started her domestic career playing for Punjab before going on to play for Railways. She caught the attention of selectors and was handed a T20I debut in 2014 against Sri Lanka. While she was in and out of the side for the next couple of years, a string of poor performances along with a knee injury kept her out of the side for an extended period. She had to fight her way back through performances at the domestic level and fight she did. Once she forced her way back into the international side, there was no looking back. Following her Test debut in 2021, she made her ODI debut in 2022 and she quickly established herself as a regular for India across formats.  <br/>  <br/> Rana played for the Gujarat Giants in the first two editions of the WPL before moving to the Royal Challengers Bengaluru in 2025.  <br/>  <br/> By <b>Anurag Hegde</b>",
+    "rankings": {
+        "bat": {
+            "odiBestRank": "86"
+        },
+        "bowl": {
+            "odiRank": "25",
+            "odiBestRank": "16",
+            "t20BestRank": "6"
+        },
+        "all": {
+            "odiRank": "26",
+            "odiBestRank": "23",
+            "t20BestRank": "65"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Sneh Rana Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11326/sneh-rana"
+    },
+    "DoBFormat": "February 18, 1994",
+    "faceImageId": 765845,
+    "teamNameIds": [
+        {
+            "teamId": "97",
+            "teamName": "India Women"
+        },
+        {
+            "teamId": "459",
+            "teamName": "India Women Green"
+        },
+        {
+            "teamId": "440",
+            "teamName": "India A Women"
+        },
+        {
+            "teamId": "530",
+            "teamName": "Velocity"
+        },
+        {
+            "teamId": "961",
+            "teamName": "India D Women"
+        },
+        {
+            "teamId": "1479",
+            "teamName": "Gujarat Giants Women"
+        },
+        {
+            "teamId": "1465",
+            "teamName": "Royal Challengers Bengaluru Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        }
+    ],
+    "playerTeamIds": "97, 459, 440, 530, 961, 1479, 1465, 1461",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "DNB",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "DNB",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "29(15)",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "0-15",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "0-3",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "0-11",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "0-11",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "0-10",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

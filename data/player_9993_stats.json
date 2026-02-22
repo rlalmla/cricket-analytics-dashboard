@@ -1,0 +1,185 @@
+{
+    "id": "9993",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm fast-medium",
+    "name": "Chinelle Henry",
+    "nickName": "Chinelle Henry",
+    "role": "Batting Allrounder",
+    "intlTeam": "West Indies",
+    "teams": "West Indies Women, Barbados Royals Women, UP Warriorz Women, Brisbane Heat Women, Delhi Capitals Women",
+    "DoB": "August 17, 1995 (30 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/9993.jpg",
+    "bio": "Chinelle Henry is a fast bowling all-rounder of West Indies who has been a regular name in women\u2019s cricket since the past five years. Hailing from Jamaica, Henry got her first break in the 2018 Women\u2019s T20 World Cup. Since then represented her country consistently in the T20 and ODI format. Henry was part of the 2022 World Cup and the 2024 T20 World Cup as well for West Indies.  <br/>  <br/> Chinelle Henry has been a regular feature in franchise cricket as well, especially in her native Caribbean where she has been playing for Barbados Royals since 2022. Henry was roped in as a replacement player for Allysa Healy as well for the 2025 Women\u2019s Premier League. <br/> ",
+    "rankings": {
+        "bat": {
+            "odiRank": "54",
+            "t20Rank": "88",
+            "odiBestRank": "46",
+            "t20BestRank": "84",
+            "t20DiffRank": "-2"
+        },
+        "bowl": {
+            "odiRank": "74",
+            "t20Rank": "95",
+            "odiBestRank": "28",
+            "t20BestRank": "61",
+            "t20DiffRank": "-3"
+        },
+        "all": {
+            "odiRank": "30",
+            "t20Rank": "34",
+            "odiBestRank": "20",
+            "t20BestRank": "26"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Chinelle Henry Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9993/chinelle-henry"
+    },
+    "DoBFormat": "August 17, 1995",
+    "faceImageId": 586311,
+    "teamNameIds": [
+        {
+            "teamId": "257",
+            "teamName": "West Indies Women"
+        },
+        {
+            "teamId": "1137",
+            "teamName": "Barbados Royals Women"
+        },
+        {
+            "teamId": "1472",
+            "teamName": "UP Warriorz Women"
+        },
+        {
+            "teamId": "356",
+            "teamName": "Brisbane Heat Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        }
+    ],
+    "playerTeamIds": "257, 1137, 1472, 356, 1461",
+    "intlTeamImageId": 776191,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "35*(15)",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "DNB",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "1(4)",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "9(11)",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "2-34",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "3-35",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "2-25",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "2-38",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "2-22",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

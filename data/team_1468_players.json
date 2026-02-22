@@ -1,0 +1,131 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9082",
+            "name": "Harmanpreet Kaur",
+            "imageId": 765842,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11256",
+            "name": "Hayley Matthews",
+            "imageId": 254970,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "22226",
+            "name": "Amanjot Kaur",
+            "imageId": 765844,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "13950",
+            "name": "Sajeevan Sajana",
+            "imageId": 824157,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11855",
+            "name": "Amelia Kerr",
+            "imageId": 765932,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9419",
+            "name": "Nat Sciver-Brunt",
+            "imageId": 765890,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "40871",
+            "name": "Poonam Khemnar",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "11405",
+            "name": "Nicola Carey",
+            "imageId": 227637,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "1448805",
+            "name": "Gunalan Kamalini",
+            "imageId": 824161,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "1448837",
+            "name": "Rahila Firdous",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "9189",
+            "name": "Shabnim Ismail",
+            "imageId": 255018,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "38741",
+            "name": "Milly Illingworth",
+            "imageId": 586260,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "1448845",
+            "name": "Sanskriti Gupta",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "22241",
+            "name": "Saika Ishaque",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "1465454",
+            "name": "Nalla Kranthi Reddy",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "1465288",
+            "name": "Triveni Vasistha",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        }
+    ]
+}

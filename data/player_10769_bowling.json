@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "64",
+                "79",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "64",
+                "77",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "3370",
+                "1588",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "1889",
+                "1667",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "0",
+                "67",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "0",
+                "99",
+                "81",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "0.0",
+                "19.08",
+                "20.58",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "0",
+                "3.36",
+                "6.3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0.0",
+                "34.04",
+                "19.6",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "-/-",
+                "5/22",
+                "4/12",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "-/-",
+                "5/22",
+                "4/12",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "0",
+                "4",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "0",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Bernard Scholtz Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10769/bernard-scholtz"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

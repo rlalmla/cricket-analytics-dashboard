@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "62",
+                "56",
+                "46",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "106",
+                "55",
+                "46",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "12308",
+                "2885",
+                "941",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "6370",
+                "2272",
+                "1190",
+                "39"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "372",
+                "15",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "218",
+                "73",
+                "45",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "29.22",
+                "31.12",
+                "26.44",
+                "19.5"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.11",
+                "4.73",
+                "7.59",
+                "6.5"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "56.46",
+                "39.52",
+                "20.91",
+                "18.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "9/129",
+                "5/33",
+                "3/27",
+                "2/23"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "12/283",
+                "5/33",
+                "3/27",
+                "2/23"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "6",
+                "3",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "12",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Keshav Maharaj Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9720/keshav-maharaj"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "33274",
+    "bat": "Left Handed Bat",
+    "bowl": "Left-arm medium",
+    "name": "Lucy Hamilton",
+    "nickName": "Lucy Hamilton",
+    "role": "Bowling Allrounder",
+    "intlTeam": "Australia",
+    "teams": "Brisbane Heat Women, Australia Women U19, Australia A Women, Delhi Capitals Women",
+    "DoB": "May 08, 2006 (19 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/33274.jpg",
+    "appIndex": {
+        "seoTitle": "Lucy Hamilton Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/33274/lucy-hamilton"
+    },
+    "DoBFormat": "May 08, 2006",
+    "faceImageId": 824158,
+    "teamNameIds": [
+        {
+            "teamId": "356",
+            "teamName": "Brisbane Heat Women"
+        },
+        {
+            "teamId": "1328",
+            "teamName": "Australia Women U19"
+        },
+        {
+            "teamId": "2796",
+            "teamName": "Australia A Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        }
+    ],
+    "playerTeamIds": "356, 1328, 2796, 1461",
+    "intlTeamImageId": 776202,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139692",
+                    "DNB",
+                    "MIW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139670",
+                    "36(19)",
+                    "RCBW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139670/dcw-vs-rcbw-11th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139692",
+                    "0-36",
+                    "MIW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139670",
+                    "0-37",
+                    "RCBW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139670/dcw-vs-rcbw-11th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

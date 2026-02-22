@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "57",
+                "65",
+                "15"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "50",
+                "56",
+                "12"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "780",
+                "519",
+                "271"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "924",
+                "567",
+                "152"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "61",
+                "43",
+                "62"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "17.33",
+                "15.26",
+                "27.1"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "84.42",
+                "91.54",
+                "178.29"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "5",
+                "22",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "73",
+                "40",
+                "22"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "17",
+                "10",
+                "21"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "6",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "4",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Chinelle Henry Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9993/chinelle-henry"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

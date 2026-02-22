@@ -1,0 +1,132 @@
+{
+    "139263": {
+        "tossstatus": "",
+        "status": "Match abandoned due to rain (no toss)"
+    },
+    "139285": {
+        "tossstatus": "South Africa opt to bowl",
+        "status": "South Africa opt to bowl"
+    },
+    "139296": {
+        "tossstatus": "Pakistan opt to bat",
+        "status": "Pakistan opt to bat"
+    },
+    "139274": {
+        "tossstatus": "Nepal opt to bowl",
+        "status": "Nepal opt to bowl"
+    },
+    "139241": {
+        "tossstatus": "Sri Lanka opt to bowl",
+        "status": "Sri Lanka opt to bowl"
+    },
+    "139194": {
+        "tossstatus": "West Indies opt to bowl",
+        "status": "West Indies opt to bowl"
+    },
+    "139230": {
+        "tossstatus": "England opt to bat",
+        "status": "England opt to bat"
+    },
+    "139175": {
+        "tossstatus": "England opt to bowl",
+        "status": "England opt to bowl"
+    },
+    "139205": {
+        "tossstatus": "United States of America opt to bat",
+        "status": "United States of America opt to bat"
+    },
+    "139227": {
+        "tossstatus": "Afghanistan opt to bowl",
+        "status": "Afghanistan opt to bowl"
+    },
+    "139351": {
+        "toss_winner": "Australia",
+        "decision": "bowl",
+        "match_winner": "Australia"
+    },
+    "139329": {
+        "toss_winner": "Sri Lanka",
+        "decision": "bat",
+        "match_winner": "Zimbabwe"
+    },
+    "139186": {
+        "toss_winner": "South Africa",
+        "decision": "bowl",
+        "match_winner": "South Africa"
+    },
+    "139340": {
+        "toss_winner": "Canada",
+        "decision": "bowl",
+        "match_winner": "Afghanistan"
+    },
+    "139318": {
+        "toss_winner": "Italy",
+        "decision": "bowl",
+        "match_winner": "West Indies"
+    },
+    "139216": {
+        "toss_winner": "Pakistan",
+        "decision": "bowl",
+        "match_winner": "India"
+    },
+    "139164": {
+        "toss_winner": "Oman",
+        "decision": "bowl",
+        "match_winner": "Ireland"
+    },
+    "139307": {
+        "toss_winner": "India",
+        "decision": "bat",
+        "match_winner": "India"
+    },
+    "139252": {
+        "toss_winner": "Canada",
+        "decision": "bat",
+        "match_winner": "New Zealand"
+    },
+    "146883": {
+        "toss_winner": "Bahrain",
+        "decision": "bowl",
+        "match_winner": "Bahrain"
+    },
+    "146894": {
+        "toss_winner": "Qatar",
+        "decision": "bat",
+        "match_winner": "Qatar"
+    },
+    "125074": {
+        "toss_winner": "Jammu and Kashmir",
+        "decision": "bowl",
+        "match_winner": "Jammu and Kashmir"
+    },
+    "132131": {
+        "toss_winner": "Central Districts",
+        "decision": "bat",
+        "match_winner": "Central Districts"
+    },
+    "132153": {
+        "toss_winner": "Wellington",
+        "decision": "bowl",
+        "match_winner": "Central Districts"
+    },
+    "132120": {
+        "toss_winner": "Auckland",
+        "decision": "bowl",
+        "match_winner": "Auckland"
+    },
+    "132142": {
+        "toss_winner": "Northern Districts",
+        "decision": "bowl",
+        "match_winner": "Wellington"
+    },
+    "133363": {
+        "toss_winner": "South Australia",
+        "decision": "bowl",
+        "match_winner": "South Australia"
+    },
+    "133369": {
+        "toss_winner": "Western Australia",
+        "decision": "bowl",
+        "match_winner": "Victoria"
+    }
+}

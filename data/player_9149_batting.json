@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "121",
+                "151",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "120",
+                "148",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "4045",
+                "3561",
+                "28"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "5368",
+                "3235",
+                "27"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "195",
+                "119",
+                "17"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "35.17",
+                "25.26",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "75.36",
+                "110.08",
+                "103.71"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "5",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "517",
+                "461",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "65",
+                "95",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "11",
+                "10",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "20",
+                "14",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "9",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Chamari Athapaththu Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9149/chamari-athapaththu"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

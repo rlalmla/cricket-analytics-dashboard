@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "4",
+                "44",
+                "31",
+                "27"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "5",
+                "30",
+                "15",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "121",
+                "380",
+                "84",
+                "136"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "301",
+                "412",
+                "84",
+                "104"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "80",
+                "53",
+                "16",
+                "29"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "30.25",
+                "16.52",
+                "14",
+                "12.36"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "40.20",
+                "92.24",
+                "100.00",
+                "130.77"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "1",
+                "7",
+                "9",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "19",
+                "42",
+                "8",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "2",
+                "0",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "1",
+                "4",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Sneh Rana Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11326/sneh-rana"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "10",
+                "14",
+                "37",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "19",
+                "14",
+                "36",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "2631",
+                "786",
+                "788",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1580",
+                "582",
+                "880",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "59",
+                "8",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "46",
+                "28",
+                "49",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "34.35",
+                "20.79",
+                "17.96",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.6",
+                "4.44",
+                "6.7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "57.2",
+                "28.07",
+                "16.08",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "7/114",
+                "4/27",
+                "4/9",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "11/234",
+                "4/27",
+                "4/9",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "5",
+                "2",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "2",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Abrar Ahmed Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/12555/abrar-ahmed"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "4",
+                "145",
+                "133",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "8",
+                "125",
+                "98",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "299",
+                "2877",
+                "1571",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "695",
+                "4215",
+                "1424",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "109",
+                "114",
+                "81",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "37.38",
+                "26.89",
+                "22.13",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "43.03",
+                "68.26",
+                "110.33",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "18",
+                "27",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "35",
+                "283",
+                "165",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "1",
+                "17",
+                "20",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "7",
+                "10",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "2",
+                "18",
+                "6",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "1",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Sune Luus Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9198/sune-luus"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10146,
+            "seriesName": "Pakistan Women tour of South Africa, 2026"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "67",
+                "45",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "35",
+                "10",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "150",
+                "42",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "247",
+                "47",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "19",
+                "12",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "9.38",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "60.73",
+                "89.37",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "19",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "12",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "2",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "3",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Saurabh Netravalkar Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9748/saurabh-netravalkar"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

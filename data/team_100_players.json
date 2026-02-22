@@ -1,0 +1,123 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "9114",
+            "name": "Meg Lanning",
+            "imageId": 255006,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9105",
+            "name": "Rachael Haynes",
+            "imageId": 227640,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        },
+        {
+            "id": "9109",
+            "name": "Elyse Villani",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9110",
+            "name": "Alex Blackwell",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11989",
+            "name": "Ashleigh Gardner",
+            "imageId": 767088,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9115",
+            "name": "Ellyse Perry",
+            "imageId": 767090,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9771",
+            "name": "Nicole Bolton",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "9113",
+            "name": "Alyssa Healy",
+            "imageId": 767095,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9989",
+            "name": "Beth Mooney",
+            "imageId": 767096,
+            "battingStyle": "Left-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11988",
+            "name": "Sarah Aley",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11325",
+            "name": "Kristen Beams",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9537",
+            "name": "Jess Jonassen",
+            "imageId": 255019,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "9108",
+            "name": "Megan Schutt",
+            "imageId": 767099,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "12038",
+            "name": "Belinda Vakarewa",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11957",
+            "name": "Amanda-Jade Wellington",
+            "imageId": 586314,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        }
+    ]
+}

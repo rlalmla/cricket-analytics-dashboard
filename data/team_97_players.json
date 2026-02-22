@@ -1,0 +1,124 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "1448809",
+            "name": "Pratika Rawal",
+            "imageId": 765837,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "10012",
+            "name": "Smriti Mandhana",
+            "imageId": 765839,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "13517",
+            "name": "Jemimah Rodrigues",
+            "imageId": 765840,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "13658",
+            "name": "Harleen Deol",
+            "imageId": 765841,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9082",
+            "name": "Harmanpreet Kaur",
+            "imageId": 765842,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11098",
+            "name": "Deepti Sharma",
+            "imageId": 765843,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "22226",
+            "name": "Amanjot Kaur",
+            "imageId": 765844,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11326",
+            "name": "Sneh Rana",
+            "imageId": 765845,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "13533",
+            "name": "Radha Yadav",
+            "imageId": 765850,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "16208",
+            "name": "Richa Ghosh",
+            "imageId": 765846,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "40584",
+            "name": "Uma Chetry",
+            "imageId": 765847,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "1448841",
+            "name": "Kranti Gaud",
+            "imageId": 765848,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "14491",
+            "name": "Renuka Singh Thakur",
+            "imageId": 765849,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "41078",
+            "name": "Shree Charani",
+            "imageId": 765851,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "13661",
+            "name": "Arundhati Reddy",
+            "imageId": 765852,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        }
+    ]
+}

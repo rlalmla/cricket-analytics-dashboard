@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "3",
+                "4",
+                "26"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "2",
+                "2",
+                "9"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "54",
+                "6",
+                "28"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "56",
+                "5",
+                "33"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "46",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "54",
+                "6",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "96.43",
+                "120.00",
+                "84.85"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "1",
+                "1",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "5",
+                "1",
+                "5"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Minnu Mani Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/14486/minnu-mani"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11452,
+            "seriesName": "ACC Women's Asia Cup Rising Stars 2026"
+        }
+    ]
+}

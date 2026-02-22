@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "4",
+                "36",
+                "14",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "6",
+                "24",
+                "5",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "145",
+                "388",
+                "29",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "508",
+                "530",
+                "30",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "46",
+                "77",
+                "18",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "29",
+                "20.42",
+                "9.67",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "28.55",
+                "73.21",
+                "96.67",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "1",
+                "5",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "13",
+                "39",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "1",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Georgia Elwiss Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9143/georgia-elwiss"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

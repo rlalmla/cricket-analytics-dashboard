@@ -1,0 +1,123 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "11351",
+            "name": "Nipuni Hansika",
+            "imageId": 154644,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11350",
+            "name": "Harshitha Samarawickrama",
+            "imageId": 765859,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9149",
+            "name": "Chamari Athapaththu",
+            "imageId": 765864,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "10008",
+            "name": "Hasini Perera",
+            "imageId": 765865,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "10007",
+            "name": "Chamari Polgampola",
+            "imageId": 150232,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9655",
+            "name": "Chandima Gunaratne",
+            "imageId": 155851,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "9159",
+            "name": "Oshadi Ranasinghe",
+            "imageId": 255078,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9148",
+            "name": "Shashikala Siriwardene",
+            "imageId": 155565,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9155",
+            "name": "Sripali Weerakkody",
+            "imageId": 155638,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "9154",
+            "name": "Dilani Manodara",
+            "imageId": 151488,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9162",
+            "name": "Prasadani Weerakkody",
+            "imageId": 155699,
+            "battingStyle": "Left-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "9152",
+            "name": "Inoka Ranaweera",
+            "imageId": 765879,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "11348",
+            "name": "Ama Kanchana",
+            "imageId": 255088,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11349",
+            "name": "Eshani Lokusuriyage",
+            "imageId": 155081,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9151",
+            "name": "Udeshika Prabodhani",
+            "imageId": 765881,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        }
+    ]
+}

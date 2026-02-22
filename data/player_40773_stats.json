@@ -1,0 +1,92 @@
+{
+    "id": "40773",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Niki Prasad",
+    "nickName": "Niki Prasad",
+    "role": "Batting Allrounder",
+    "intlTeam": "India",
+    "teams": "India Women U19, Delhi Capitals Women",
+    "DoB": "October 25, 2005 (20 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/40773.jpg",
+    "bio": "Skipper of the U-19 WC winning team 2025, Nikki Prasad also bagged the Player of the Match award on her WPL debut against Mumbai Indians. What's more? On the same night (WPL debut), she got a warm, congratulatory hug from former Indian skipper Mithali Raj who was in complete awe of Nikki's composure with the bat. An out and out Bengaluru girl, Niki started playing tennis ball cricket at the age of 6 before joining a cricket academy close to her home. Later on, she joined Just Cricket Academy for which she had to travel 24 kms every single day for three years. After missing out narrowly in the U19 squad for 2023 Womens T20 World Cup, Nikki worked really hard to make sure that she had a strong case for the next edition. Not only did she feature in the U-19 T20 World Cup in 2025, but was also offered the captaincy duties as a reward for her consistency at the age group cricket. The scoreboards (2025 U-19 WC) may not reveal the impact of Nikki Prasad the batter, but with a really calm head on her shoulders, Nikki used her bowling resources wonderfully well to put teams under pressure.",
+    "appIndex": {
+        "seoTitle": "Niki Prasad Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/40773/niki-prasad"
+    },
+    "DoBFormat": "October 25, 2005",
+    "faceImageId": 824160,
+    "teamNameIds": [
+        {
+            "teamId": "1356",
+            "teamName": "India Women U19"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        }
+    ],
+    "playerTeamIds": "1356, 1461",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "DNB",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "4*(6)",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "47(24)",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {}
+}

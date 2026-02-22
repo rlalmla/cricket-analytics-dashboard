@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "32",
+                "124",
+                "130",
+                "31"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "44",
+                "92",
+                "87",
+                "19"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1085",
+                "1580",
+                "974",
+                "110"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "2300",
+                "1689",
+                "749",
+                "104"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "126",
+                "67",
+                "77",
+                "22"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "25.83",
+                "26.78",
+                "19.48",
+                "13.75"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "47.18",
+                "93.55",
+                "130.05",
+                "105.77"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "2",
+                "33",
+                "37",
+                "11"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "120",
+                "115",
+                "81",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "32",
+                "50",
+                "35",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "3",
+                "3",
+                "6",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "4",
+                "3",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Mitchell Santner Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10100/mitchell-santner"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "17",
+                "120",
+                "54",
+                "98"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "32",
+                "117",
+                "52",
+                "95"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "2893",
+                "6144",
+                "1127",
+                "2052"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1704",
+                "5205",
+                "1306",
+                "2749"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "63",
+                "31",
+                "2",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "76",
+                "194",
+                "95",
+                "102"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "22.42",
+                "26.83",
+                "13.75",
+                "26.95"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.53",
+                "5.08",
+                "6.95",
+                "8.04"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "38.07",
+                "31.67",
+                "11.86",
+                "20.12"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "5/40",
+                "6/25",
+                "5/17",
+                "4/14"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "8/113",
+                "6/25",
+                "5/17",
+                "4/14"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "4",
+                "9",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "5",
+                "2",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Kuldeep Yadav Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/8292/kuldeep-yadav"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

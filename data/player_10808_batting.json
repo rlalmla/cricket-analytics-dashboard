@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "45",
+                "50",
+                "17",
+                "108"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "61",
+                "21",
+                "5",
+                "26"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "154",
+                "57",
+                "14",
+                "112"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "453",
+                "134",
+                "16",
+                "123"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "16",
+                "9",
+                "7",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "4.4",
+                "7.13",
+                "7",
+                "11.2"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "34.00",
+                "42.54",
+                "87.50",
+                "91.06"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "26",
+                "13",
+                "3",
+                "16"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "16",
+                "3",
+                "1",
+                "10"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "2",
+                "0",
+                "0",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "16",
+                "2",
+                "1",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Mohammed Siraj Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10808/mohammed-siraj"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

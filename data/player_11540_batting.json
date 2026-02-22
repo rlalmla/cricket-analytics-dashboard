@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "18",
+                "36",
+                "41",
+                "52"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "29",
+                "22",
+                "15",
+                "32"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "268",
+                "207",
+                "90",
+                "262"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "513",
+                "187",
+                "70",
+                "178"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "51",
+                "38",
+                "21",
+                "30"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "10.72",
+                "18.82",
+                "10",
+                "13.79"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "52.25",
+                "110.70",
+                "128.58",
+                "147.20"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "4",
+                "11",
+                "6",
+                "13"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "33",
+                "22",
+                "7",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "4",
+                "7",
+                "4",
+                "18"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "3",
+                "3",
+                "3",
+                "5"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Jofra Archer Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11540/jofra-archer"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

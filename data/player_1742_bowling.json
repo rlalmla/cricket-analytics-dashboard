@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "19",
+                "161",
+                "141",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "34",
+                "155",
+                "134",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "3816",
+                "8079",
+                "2942",
+                "60"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "2390",
+                "7571",
+                "3676",
+                "91"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "50",
+                "16",
+                "5",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "60",
+                "242",
+                "156",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "39.83",
+                "31.29",
+                "23.56",
+                "45.5"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.76",
+                "5.62",
+                "7.5",
+                "9.1"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "63.6",
+                "33.38",
+                "18.86",
+                "30.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "5/49",
+                "5/27",
+                "4/2",
+                "2/23"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "7/178",
+                "5/27",
+                "4/2",
+                "2/23"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "5",
+                "10",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "2",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Adil Rashid Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/1742/adil-rashid"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

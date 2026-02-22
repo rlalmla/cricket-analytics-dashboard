@@ -1,0 +1,177 @@
+{
+    "id": "22226",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm fast-medium",
+    "name": "Amanjot Kaur",
+    "nickName": "Amanjot Kaur",
+    "role": "Batting Allrounder",
+    "intlTeam": "India",
+    "teams": "India D Women, India A Women, India Women, Mumbai Indians Women",
+    "DoB": "August 25, 2000 (25 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/22226.jpg",
+    "bio": "Amanjot Kaur, a seam-bowling all-rounder from Punjab, didn\u2019t waste any time in showing the world she was ready for the big-stage after scoring a Player of the Match worthy 41* off 30 on her T20I debut against South Africa in 2023. Just a few months later, she owned the stage once more during her ODI debut after picking up 4/31 against Bangladesh. She started training under Nagesh Gupta as a 17-year old and started playing domestic cricket for Punjab shortly thereafter. In pursuit of more opportunities, she switched to Chandigarh for a couple of seasons before eventually switching back. She was picked up by the Mumbai Indians for INR 50 lakh in the inaugural season of the WPL and was retained thereafter.  <br/>  <br/> <i>\u201cHum bane hi udne ke liye hain\u201d</i> (I am born to fly) she would go on to say after a stunning and game-changing performance in WPL 2025. In a game against RCB, Amanjot first picked 3 wickets before leading her side to a nail-biting win with the bat, scoring 34* off 30,  which would eventually earn her her first Player of the Match award in the WPL. ",
+    "rankings": {
+        "bat": {
+            "t20Rank": "81",
+            "t20BestRank": "77",
+            "t20DiffRank": "-3"
+        },
+        "bowl": {
+            "odiRank": "82",
+            "odiBestRank": "81"
+        },
+        "all": {
+            "odiRank": "65",
+            "t20Rank": "50",
+            "odiBestRank": "65",
+            "t20BestRank": "48",
+            "t20DiffRank": "-1"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Amanjot Kaur Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/22226/amanjot-kaur"
+    },
+    "DoBFormat": "August 25, 2000",
+    "faceImageId": 765844,
+    "teamNameIds": [
+        {
+            "teamId": "961",
+            "teamName": "India D Women"
+        },
+        {
+            "teamId": "440",
+            "teamName": "India A Women"
+        },
+        {
+            "teamId": "97",
+            "teamName": "India Women"
+        },
+        {
+            "teamId": "1468",
+            "teamName": "Mumbai Indians Women"
+        }
+    ],
+    "playerTeamIds": "961, 440, 97, 1468",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139753",
+                    "13(12)",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "4(4)",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "3(3)",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "41(24)",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139637",
+                    "38(33)",
+                    "UPW",
+                    "T20",
+                    "15 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139637/miw-vs-upw-8th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139753",
+                    "0-13",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "1-51",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "1-21",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "1-38",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139615",
+                    "0-48",
+                    "GGTW",
+                    "T20",
+                    "13 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139615/miw-vs-ggtw-6th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

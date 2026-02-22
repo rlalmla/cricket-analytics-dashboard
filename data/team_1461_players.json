@@ -1,0 +1,130 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "1465137",
+            "name": "Deeya Yadav",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "14825",
+            "name": "Shafali Verma",
+            "imageId": 254978,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "13517",
+            "name": "Jemimah Rodrigues",
+            "imageId": 765840,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11374",
+            "name": "Laura Wolvaardt",
+            "imageId": 767127,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9993",
+            "name": "Chinelle Henry",
+            "imageId": 586311,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "40773",
+            "name": "Niki Prasad",
+            "imageId": 824160,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "14486",
+            "name": "Minnu Mani",
+            "imageId": 765853,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "33274",
+            "name": "Lucy Hamilton",
+            "imageId": 824158,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        },
+        {
+            "id": "9182",
+            "name": "Marizanne Kapp",
+            "imageId": 767132,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "12211",
+            "name": "Annabel Sutherland",
+            "imageId": 767093,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11326",
+            "name": "Sneh Rana",
+            "imageId": 765845,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "13519",
+            "name": "Taniya Bhatia",
+            "imageId": 165693,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9653",
+            "name": "Lizelle Lee",
+            "imageId": 586265,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "35145",
+            "name": "Mamatha Madiwala",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "41078",
+            "name": "Shree Charani",
+            "imageId": 765851,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "1448901",
+            "name": "Nandni Sharma",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        }
+    ]
+}

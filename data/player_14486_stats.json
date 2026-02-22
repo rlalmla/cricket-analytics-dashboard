@@ -1,0 +1,160 @@
+{
+    "id": "14486",
+    "bat": "Left Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Minnu Mani",
+    "nickName": "Minnu Mani",
+    "role": "Batting Allrounder",
+    "birthPlace": "Wayanad, Kerala",
+    "intlTeam": "India",
+    "teams": "India Women Blue, India A Women, Delhi Capitals Women, India Women",
+    "DoB": "March 24, 1999 (26 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/14486.jpg",
+    "bio": "The first female cricketer to represent India from Kerala, Minnu Mani made her domestic debut at the age of 16. Having played a vital role in Kerala's (women's u-23 national T20 championship) championship winning season in 2018, Mani was called up to represent the second-string sides like India A, India Blue and in the U-23 category as well. Her success is one that is sure to bring a tear or two. After years of playing experience in paddy fields, Minnu Mani had to convince her parents (her father worked as a daily wage labourer and mother, a homemaker) to help her pursue her dream. The tables turned when her Physical Education teacher, at school, took her to the district U-13 trials in Wayanad. That camp helped fastrack her career as she made debut for Kerala U-16 team next year.  <br/>  <br/> The struggles never stopped although she started making big strides in state cricket. She had to travel nearly two hours, to and fro, switching 3-4 buses while at it to be able to attend the practice sessions. During the 2018 landslides in Kerala, Minnu's family were also victims of those whose houses got swept away. Thanks to Minnnu Man's achievements in domestic cricket and an WPL contract (20 lakhs), she helped her parents rebuild the house. She made her international debut in India's tour of Bangladesh in 2023 in Mirpur and finished the series as the highest wicket-taker for her side (5 from 3 games). Minnu Mani was also part of the Indian squad that won Gold in Asian Games 2023 in Hangzhou.  <br/>  <br/> This is what Minnu Mani had to say ahead of her international debut. \"Life has been tough for me and I am happy my hard work has paid off. I will do my best now that I have got the chance.\"",
+    "appIndex": {
+        "seoTitle": "Minnu Mani Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/14486/minnu-mani"
+    },
+    "DoBFormat": "March 24, 1999",
+    "faceImageId": 765853,
+    "teamNameIds": [
+        {
+            "teamId": "458",
+            "teamName": "India Women Blue"
+        },
+        {
+            "teamId": "440",
+            "teamName": "India A Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        },
+        {
+            "teamId": "97",
+            "teamName": "India Women"
+        }
+    ],
+    "playerTeamIds": "458, 440, 1461, 97",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "DNB",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "DNB",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "1*(1)",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139786",
+                    "1-19",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "1-23",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "1-13",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "1-23",
+                    "GGTW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139709",
+                    "2-18",
+                    "RCBW",
+                    "T20",
+                    "24 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139709/rcbw-vs-dcw-15th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

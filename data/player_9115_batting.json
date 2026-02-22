@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "14",
+                "165",
+                "169",
+                "25"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "23",
+                "137",
+                "112",
+                "25"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "930",
+                "4504",
+                "2193",
+                "972"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "2040",
+                "5739",
+                "1871",
+                "731"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "213",
+                "112",
+                "75",
+                "90"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "58.13",
+                "48.43",
+                "30.89",
+                "64.8"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "45.59",
+                "78.49",
+                "117.22",
+                "132.97"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "7",
+                "44",
+                "41",
+                "10"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "119",
+                "401",
+                "204",
+                "109"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "1",
+                "50",
+                "47",
+                "25"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "6",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "4",
+                "37",
+                "9",
+                "8"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "2",
+                "3",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Ellyse Perry Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9115/ellyse-perry"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

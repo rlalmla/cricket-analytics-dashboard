@@ -1,0 +1,160 @@
+{
+    "id": "13950",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Sajeevan Sajana",
+    "nickName": "Sajeevan Sajana",
+    "role": "Batting Allrounder",
+    "birthPlace": "Mananthavadi, Wayanad, Kerala",
+    "intlTeam": "India",
+    "teams": "India Women Green, India A Women, Mumbai Indians Women, India Women",
+    "DoB": "January 04, 1995 (31 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/13950.jpg",
+    "bio": "\"She's like the Kieron Pollard of our women's team\" Yastika Bhatia would say after a meaty blow from Sajeevan Sajana\u2019s bat sailed over the ropes to lead the Mumbai Indians to a remarkable win over the Delhi Capitals in the season opener of WPL 2024. Sajana, on WPL debut, came to the crease with her team needing 5 to win off the last ball and in a few short moments resembling a dramatic movie, Sajana ended the day as a super-star.  <br/>  <br/> As a youngster, Sajana was a multi-talented and naturally skilled athlete who dabbled in various different sports before finally settling on cricket. Hailing from Wayanad, Kerala, Sajana comes from a humble background and had to face several struggles during her decade-long cricketing journey before making it to the grand stage. She suffered several setbacks, including her home being washed away during the 2018 floods and like millions of others, financial difficulties during the Covid-19 pandemic.  <br/>  <br/> It\u2019s these challenges that perhaps shaped Sajana\u2019s tenacious character on the cricket field. After over a decade of toil in domestic cricket, her impressive performances for Kerala and the Mumbai Indians in the WPL earnt her the ultimate reward of an India cap. She made her T20I debut against Bangladesh in 2024 and was even a part of India\u2019s squad for the 2024 Women\u2019s T20 World Cup. ",
+    "appIndex": {
+        "seoTitle": "Sajeevan Sajana Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/13950/sajeevan-sajana"
+    },
+    "DoBFormat": "January 04, 1995",
+    "faceImageId": 824157,
+    "teamNameIds": [
+        {
+            "teamId": "459",
+            "teamName": "India Women Green"
+        },
+        {
+            "teamId": "440",
+            "teamName": "India A Women"
+        },
+        {
+            "teamId": "1468",
+            "teamName": "Mumbai Indians Women"
+        },
+        {
+            "teamId": "97",
+            "teamName": "India Women"
+        }
+    ],
+    "playerTeamIds": "459, 440, 1468, 97",
+    "intlTeamImageId": 776162,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139753",
+                    "26(25)",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "7(7)",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "9(9)",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "10(6)",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139637",
+                    "1(2)",
+                    "UPW",
+                    "T20",
+                    "15 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139637/miw-vs-upw-8th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139637",
+                    "0-7",
+                    "UPW",
+                    "T20",
+                    "15 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139637/miw-vs-upw-8th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "112686",
+                    "1-10",
+                    "DCW",
+                    "T20",
+                    "15 Feb 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/112686/miw-vs-dcw-2nd-match-women's-premier-league-2025"
+            },
+            {
+                "values": [
+                    "110029",
+                    "1-16",
+                    "WIW",
+                    "T20I",
+                    "19 Dec 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/110029/indw-vs-wiw-3rd-t20i-west-indies-women-tour-of-india-2024"
+            },
+            {
+                "values": [
+                    "110021",
+                    "0-17",
+                    "WIW",
+                    "T20I",
+                    "17 Dec 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024"
+            },
+            {
+                "values": [
+                    "91974",
+                    "0-11",
+                    "NEPW",
+                    "T20I",
+                    "23 Jul 24"
+                ],
+                "followUpLinkText": "/live-cricket-scores/91974/indw-vs-nepw-10th-match-group-a-womens-asia-cup-t20-2024"
+            }
+        ]
+    }
+}

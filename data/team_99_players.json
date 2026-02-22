@@ -1,0 +1,122 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "9992",
+            "name": "Fran Wilson",
+            "imageId": 156826,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9140",
+            "name": "Danni Wyatt-Hodge",
+            "imageId": 765885,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9138",
+            "name": "Heather Knight",
+            "imageId": 765887,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9146",
+            "name": "Laura Marsh",
+            "imageId": 156738,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9142",
+            "name": "Katherine Sciver-Brunt",
+            "imageId": 255041,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9143",
+            "name": "Georgia Elwiss",
+            "imageId": 157461,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9144",
+            "name": "Jenny Gunn",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9419",
+            "name": "Nat Sciver-Brunt",
+            "imageId": 765890,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "9141",
+            "name": "Tammy Beaumont",
+            "imageId": 765893,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9147",
+            "name": "Sarah Taylor",
+            "imageId": 156645,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9420",
+            "name": "Lauren Winfield-Hill",
+            "imageId": 255044,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11502",
+            "name": "Alex Hartley",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "9137",
+            "name": "Danielle Hazell",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9467",
+            "name": "Beth Langston",
+            "imageId": 157449,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9139",
+            "name": "Anya Shrubsole",
+            "imageId": 227393,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        }
+    ]
+}

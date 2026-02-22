@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "52",
+                "89",
+                "89",
+                "145"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "99",
+                "88",
+                "86",
+                "145"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "10031",
+                "4580",
+                "1882",
+                "3337"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "4631",
+                "3509",
+                "2051",
+                "4032"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "395",
+                "57",
+                "12",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "234",
+                "149",
+                "110",
+                "183"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "19.79",
+                "23.55",
+                "18.65",
+                "22.03"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "2.77",
+                "4.6",
+                "6.54",
+                "7.25"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "42.87",
+                "30.74",
+                "17.11",
+                "18.23"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "6/27",
+                "6/19",
+                "3/7",
+                "5/10"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "9/86",
+                "6/19",
+                "3/7",
+                "5/10"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "7",
+                "6",
+                "0",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "16",
+                "2",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Jasprit Bumrah Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9311/jasprit-bumrah"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

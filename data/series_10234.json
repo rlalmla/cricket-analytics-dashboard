@@ -1,0 +1,225 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 15 Mar 2026",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 122687,
+                            "seriesId": 10234,
+                            "seriesName": "South Africa tour of New Zealand, 2026",
+                            "matchDesc": "1st T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1773555300000",
+                            "endDate": "1773567900000",
+                            "state": "Upcoming",
+                            "status": "Match starts at Mar 15, 06:15 GMT",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "New Zealand",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "South Africa",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "id": 393,
+                                "ground": "Bay Oval",
+                                "city": "Mount Maunganui",
+                                "timezone": "+13:00"
+                            },
+                            "seriesStartDt": "1773532800000",
+                            "seriesEndDt": "1774569600000",
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 10234
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 17 Mar 2026",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 122698,
+                            "seriesId": 10234,
+                            "seriesName": "South Africa tour of New Zealand, 2026",
+                            "matchDesc": "2nd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1773728100000",
+                            "endDate": "1773740700000",
+                            "state": "Upcoming",
+                            "status": "Match starts at Mar 17, 06:15 GMT",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "New Zealand",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "South Africa",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "id": 100,
+                                "ground": "Seddon Park",
+                                "city": "Hamilton",
+                                "timezone": "+13:00"
+                            },
+                            "seriesStartDt": "1773532800000",
+                            "seriesEndDt": "1774569600000",
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 10234
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 20 Mar 2026",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 122709,
+                            "seriesId": 10234,
+                            "seriesName": "South Africa tour of New Zealand, 2026",
+                            "matchDesc": "3rd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1773987300000",
+                            "endDate": "1773999900000",
+                            "state": "Upcoming",
+                            "status": "Match starts at Mar 20, 06:15 GMT",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "New Zealand",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "South Africa",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "id": 41,
+                                "ground": "Eden Park",
+                                "city": "Auckland",
+                                "timezone": "+13:00"
+                            },
+                            "seriesStartDt": "1773532800000",
+                            "seriesEndDt": "1774569600000",
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 10234
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 3
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 22 Mar 2026",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 122720,
+                            "seriesId": 10234,
+                            "seriesName": "South Africa tour of New Zealand, 2026",
+                            "matchDesc": "4th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1774160100000",
+                            "endDate": "1774172700000",
+                            "state": "Upcoming",
+                            "status": "Match starts at Mar 22, 06:15 GMT",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "New Zealand",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "South Africa",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "id": 42,
+                                "ground": "Sky Stadium",
+                                "city": "Wellington",
+                                "timezone": "+13:00"
+                            },
+                            "seriesStartDt": "1773532800000",
+                            "seriesEndDt": "1774569600000",
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 10234
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 25 Mar 2026",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 122731,
+                            "seriesId": 10234,
+                            "seriesName": "South Africa tour of New Zealand, 2026",
+                            "matchDesc": "5th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1774419300000",
+                            "endDate": "1774431900000",
+                            "state": "Upcoming",
+                            "status": "Match starts at Mar 25, 06:15 GMT",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "New Zealand",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "South Africa",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "id": 371,
+                                "ground": "Hagley Oval",
+                                "city": "Christchurch",
+                                "timezone": "+13:00"
+                            },
+                            "seriesStartDt": "1773532800000",
+                            "seriesEndDt": "1774569600000",
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 10234
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "South Africa tour of New Zealand, 2026 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

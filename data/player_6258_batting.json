@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "76",
+                "96",
+                "60",
+                "39"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "96",
+                "38",
+                "12",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "565",
+                "135",
+                "29",
+                "19"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "1281",
+                "166",
+                "28",
+                "29"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "39",
+                "23",
+                "13",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "11.53",
+                "15",
+                "9.67",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "44.11",
+                "81.33",
+                "103.58",
+                "65.52"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "47",
+                "29",
+                "9",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "81",
+                "14",
+                "2",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "2",
+                "3",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "12",
+                "5",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Josh Hazlewood Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/6258/josh-hazlewood"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10823,
+            "seriesName": "Sheffield Shield 2025-26"
+        }
+    ]
+}

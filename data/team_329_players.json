@@ -1,0 +1,114 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "11378",
+            "name": "Fargana Hoque",
+            "imageId": 767102,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "11383",
+            "name": "Sanjida Islam",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "11384",
+            "name": "Sharmin Akhter",
+            "imageId": 767106,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "11389",
+            "name": "Ritu Moni",
+            "imageId": 767111,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11382",
+            "name": "Rumana Ahmed",
+            "imageId": 255060,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "11388",
+            "name": "Nigar Sultana",
+            "imageId": 767110,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11385",
+            "name": "Fahima Khatun",
+            "imageId": 767112,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "11386",
+            "name": "Jahanara Alam",
+            "imageId": 255070,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11379",
+            "name": "Khadija Tul Kubra",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11387",
+            "name": "Lata Mondal",
+            "imageId": 255071,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11381",
+            "name": "Panna Ghosh",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11390",
+            "name": "Salma Khatun",
+            "imageId": 255069,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11693",
+            "name": "Suraiya Azmin",
+            "imageId": 227486,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11391",
+            "name": "Shaila Sharmin",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        }
+    ]
+}

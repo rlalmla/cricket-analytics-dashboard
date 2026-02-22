@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "178",
+                "177",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "169",
+                "174",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "5936",
+                "4716",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "7444",
+                "4343",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "168",
+                "124",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "38.8",
+                "29.11",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "79.75",
+                "108.59",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "16",
+                "12",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "688",
+                "521",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "20",
+                "34",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "11",
+                "13",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "37",
+                "28",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "13",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Suzie Bates Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9163/suzie-bates"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

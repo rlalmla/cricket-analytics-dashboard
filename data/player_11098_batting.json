@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "5",
+                "121",
+                "134",
+                "33"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "8",
+                "103",
+                "82",
+                "31"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "319",
+                "2739",
+                "1107",
+                "638"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "726",
+                "3877",
+                "1063",
+                "541"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "78",
+                "188",
+                "64",
+                "88"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "63.8",
+                "37.01",
+                "23.06",
+                "26.58"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "43.94",
+                "70.65",
+                "104.14",
+                "117.93"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "3",
+                "29",
+                "34",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "42",
+                "261",
+                "96",
+                "75"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "1",
+                "19",
+                "7",
+                "12"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "5",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "4",
+                "18",
+                "2",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Deepti Sharma Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11098/deepti-sharma"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

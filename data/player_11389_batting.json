@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "54",
+                "83",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "42",
+                "65",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "604",
+                "498",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "991",
+                "616",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "67",
+                "39",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "17.76",
+                "10.6",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "60.95",
+                "80.85",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "8",
+                "18",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "51",
+                "38",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "4",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "1",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Ritu Moni Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11389/ritu-moni"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

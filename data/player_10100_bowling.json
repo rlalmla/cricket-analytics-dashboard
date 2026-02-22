@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "32",
+                "124",
+                "130",
+                "31"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "54",
+                "118",
+                "126",
+                "31"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "5551",
+                "5875",
+                "2676",
+                "603"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "2603",
+                "4717",
+                "3233",
+                "735"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "188",
+                "26",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "78",
+                "133",
+                "136",
+                "25"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "33.37",
+                "35.47",
+                "23.77",
+                "29.4"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "2.81",
+                "4.82",
+                "7.25",
+                "7.31"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "71.17",
+                "44.17",
+                "19.68",
+                "24.12"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "7/53",
+                "5/50",
+                "4/11",
+                "3/11"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "13/157",
+                "5/50",
+                "4/11",
+                "3/11"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "2",
+                "0",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "2",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Mitchell Santner Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10100/mitchell-santner"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

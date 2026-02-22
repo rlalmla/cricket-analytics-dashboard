@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "6",
+                "49",
+                "46",
+                "17"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "9",
+                "33",
+                "22",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "586",
+                "981",
+                "194",
+                "150"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "945",
+                "1064",
+                "143",
+                "137"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "210",
+                "110",
+                "23",
+                "41"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "83.71",
+                "40.88",
+                "11.41",
+                "12.5"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "62.02",
+                "92.20",
+                "135.67",
+                "109.49"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "2",
+                "9",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "73",
+                "95",
+                "23",
+                "13"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "4",
+                "14",
+                "3",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "3",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "4",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "3",
+                "3",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "1",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Annabel Sutherland Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/12211/annabel-sutherland"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "0",
+                "0",
+                "18"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "0",
+                "0",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "0",
+                "0",
+                "153"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "0",
+                "0",
+                "128"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "0",
+                "0",
+                "47"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "0",
+                "0",
+                "30.6"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "0",
+                "0",
+                "119.54"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "0",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "0",
+                "0",
+                "19"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "0",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Niki Prasad Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/40773/niki-prasad"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

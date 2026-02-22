@@ -1,0 +1,123 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "11885",
+            "name": "Ayesha Zafar",
+            "imageId": 155544,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9128",
+            "name": "Nahida Khan",
+            "imageId": 227530,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9415",
+            "name": "Marina Iqbal",
+            "imageId": 155535,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9118",
+            "name": "Javeria Khan",
+            "imageId": 255028,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9121",
+            "name": "Nain Abidi",
+            "imageId": 157135,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9125",
+            "name": "Bismah Maroof",
+            "imageId": 255034,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9126",
+            "name": "Asmavia Iqbal",
+            "imageId": 155515,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "11392",
+            "name": "Sidra Nawaz",
+            "imageId": 765939,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "9117",
+            "name": "Sana Mir",
+            "imageId": 155529,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "12749",
+            "name": "Kainat Imtiaz",
+            "imageId": 157141,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9127",
+            "name": "Diana Baig",
+            "imageId": 765942,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "12750",
+            "name": "Waheeda Akhtar",
+            "imageId": 155813,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "12275",
+            "name": "Nashra Sandhu",
+            "imageId": 765941,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "id": "12274",
+            "name": "Ghulam Fatima",
+            "imageId": 227522,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "9123",
+            "name": "Sadia Yousuf",
+            "imageId": 156786,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        }
+    ]
+}

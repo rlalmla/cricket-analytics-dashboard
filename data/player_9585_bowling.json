@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "73",
+                "106",
+                "76",
+                "84"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "134",
+                "104",
+                "76",
+                "84"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "13436",
+                "5444",
+                "1631",
+                "1902"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "7492",
+                "4613",
+                "2296",
+                "2732"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "440",
+                "63",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "340",
+                "168",
+                "80",
+                "119"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "22.04",
+                "27.46",
+                "28.7",
+                "22.96"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.35",
+                "5.08",
+                "8.45",
+                "8.62"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "39.52",
+                "32.4",
+                "20.39",
+                "15.98"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "7/112",
+                "6/16",
+                "3/18",
+                "4/21"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "13/144",
+                "6/16",
+                "3/18",
+                "4/21"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "15",
+                "6",
+                "0",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "17",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "4",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Kagiso Rabada Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9585/kagiso-rabada"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

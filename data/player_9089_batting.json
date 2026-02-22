@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "149",
+                "138",
+                "11"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "140",
+                "134",
+                "11"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "3785",
+                "3004",
+                "199"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "4780",
+                "2353",
+                "147"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "150",
+                "112",
+                "40"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "30.04",
+                "26.82",
+                "24.88"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "79.19",
+                "127.67",
+                "135.38"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "14",
+                "22",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "407",
+                "265",
+                "22"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "91",
+                "126",
+                "8"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "9",
+                "11",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "22",
+                "14",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "3",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Deandra Dottin Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9089/deandra-dottin"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

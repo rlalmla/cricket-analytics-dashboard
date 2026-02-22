@@ -1,0 +1,185 @@
+{
+    "id": "11989",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Ashleigh Gardner",
+    "nickName": "Ashleigh Gardner",
+    "role": "Batting Allrounder",
+    "birthPlace": "Bankstown, Sydney, New South Wales",
+    "intlTeam": "Australia",
+    "teams": "Sydney Sixers Women, Australia Women, Birmingham Phoenix Women, Gujarat Giants Women, Trent Rockets Women",
+    "DoB": "April 15, 1997 (28 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/11989.jpg",
+    "bio": "An aggressive middle-order batswoman, who ably doubles up as an off-break bowler, Ashleigh Gardner has made all the right noises in her thus-far nascent career.  <br/>  <br/> 2015 was Gardner's breakthrough year. A child prodigy of sorts, Gardner grabbed attention when she topped the runs tally at Cricket Australia's under-18 Championships, becoming the Player of the Series, apart from leading New South Wales to the title. She later went on to create history, when she became the first Indigenous woman to receive Australia's prestigious Lord Taverners Indigenous Player of the Year award.   <br/>  <br/> She carried her form through for the NSW Breakers, where she took nine wickets and notched up 98 runs in her five matches in the 2016-17 domestic season. A national call up followed soon, making her T20I and ODI debut for the Southern Stars against New Zealand in early 2017. She went on to play a vital role in Australia's World Cup campaign and in the Ashes victory later in the year. In the second edition of the WBBL too she emerged as the highest run-scorer in the tournament with 414 runs under her belt for Sydney Sixers. <br/>  <br/> With age by her side and loads of talent with both bat and ball, Gardner has made herself into a blossoming star to look out for as Australia look to reclaim the World T20 crown.  <br/>  <br/> <b>Vineet Anantharaman</b>  <i>[October 2018]</i>",
+    "rankings": {
+        "bat": {
+            "odiRank": "3",
+            "t20Rank": "28",
+            "odiBestRank": "2",
+            "t20BestRank": "6"
+        },
+        "bowl": {
+            "odiRank": "4",
+            "t20Rank": "20",
+            "odiBestRank": "2",
+            "t20BestRank": "6",
+            "t20DiffRank": "-4"
+        },
+        "all": {
+            "odiRank": "1",
+            "t20Rank": "4",
+            "odiBestRank": "1",
+            "t20BestRank": "1"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Ashleigh Gardner Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11989/ashleigh-gardner"
+    },
+    "DoBFormat": "April 15, 1997",
+    "faceImageId": 767088,
+    "teamNameIds": [
+        {
+            "teamId": "361",
+            "teamName": "Sydney Sixers Women"
+        },
+        {
+            "teamId": "100",
+            "teamName": "Australia Women"
+        },
+        {
+            "teamId": "615",
+            "teamName": "Birmingham Phoenix Women"
+        },
+        {
+            "teamId": "1479",
+            "teamName": "Gujarat Giants Women"
+        },
+        {
+            "teamId": "618",
+            "teamName": "Trent Rockets Women"
+        }
+    ],
+    "playerTeamIds": "361, 100, 615, 1479, 618",
+    "intlTeamImageId": 776202,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "117029",
+                    "4(6)",
+                    "INDW",
+                    "T20I",
+                    "15 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/117029/ausw-vs-indw-1st-t20i-india-women-tour-of-australia-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "0(1)",
+                    "DCW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139753",
+                    "46(28)",
+                    "MIW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "2(4)",
+                    "DCW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139703",
+                    "5(12)",
+                    "UPW",
+                    "T20",
+                    "22 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139703/upw-vs-ggtw-14th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139775",
+                    "0-15",
+                    "DCW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139753",
+                    "1-26",
+                    "MIW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139731",
+                    "1-37",
+                    "DCW",
+                    "T20",
+                    "27 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139731/dcw-vs-ggtw-17th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139703",
+                    "1-23",
+                    "UPW",
+                    "T20",
+                    "22 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139703/upw-vs-ggtw-14th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139681",
+                    "2-43",
+                    "RCBW",
+                    "T20",
+                    "19 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139681/ggtw-vs-rcbw-12th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

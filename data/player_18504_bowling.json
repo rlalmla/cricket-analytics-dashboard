@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "2",
+                "59",
+                "79",
+                "38"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "4",
+                "58",
+                "79",
+                "38"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "365",
+                "2889",
+                "1779",
+                "876"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "188",
+                "2214",
+                "2079",
+                "1207"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "10",
+                "19",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "5",
+                "79",
+                "77",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "37.6",
+                "28.03",
+                "27.0",
+                "33.53"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.09",
+                "4.6",
+                "7.01",
+                "8.27"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "73.0",
+                "36.57",
+                "23.1",
+                "24.33"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "2/28",
+                "4/25",
+                "3/17",
+                "4/33"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "3/76",
+                "4/25",
+                "3/17",
+                "4/33"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "0",
+                "7",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Maheesh Theekshana Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/18504/maheesh-theekshana"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

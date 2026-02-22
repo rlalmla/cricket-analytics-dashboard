@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "14",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "24",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "3134",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1504",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "104",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "69",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "21.8",
+                "0.0",
+                "0.0",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "2.88",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "45.42",
+                "0.0",
+                "0.0",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "6/37",
+                "-/-",
+                "-/-",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "9/101",
+                "-/-",
+                "-/-",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "7",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "2",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Simon Harmer Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9540/simon-harmer"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10878,
+            "seriesName": "CSA Four-Day Series Division One 2025-26"
+        }
+    ]
+}

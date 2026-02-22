@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "76",
+                "96",
+                "60",
+                "39"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "143",
+                "95",
+                "59",
+                "39"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "15423",
+                "4978",
+                "1348",
+                "867"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "7144",
+                "3928",
+                "1680",
+                "1196"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "657",
+                "65",
+                "7",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "295",
+                "142",
+                "79",
+                "57"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "24.22",
+                "27.66",
+                "21.27",
+                "20.98"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "2.78",
+                "4.73",
+                "7.48",
+                "8.28"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "52.28",
+                "35.06",
+                "17.06",
+                "15.21"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "6/67",
+                "6/52",
+                "4/12",
+                "4/25"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "9/79",
+                "6/52",
+                "4/12",
+                "4/25"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "11",
+                "1",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "13",
+                "3",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Josh Hazlewood Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/6258/josh-hazlewood"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10823,
+            "seriesName": "Sheffield Shield 2025-26"
+        }
+    ]
+}

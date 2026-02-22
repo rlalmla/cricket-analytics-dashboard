@@ -1,0 +1,123 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "9996",
+            "name": "Maddy Green",
+            "imageId": 765953,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9168",
+            "name": "Katie Perkins",
+            "imageId": 151779,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9163",
+            "name": "Suzie Bates",
+            "imageId": 765925,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9177",
+            "name": "Amy Satterthwaite",
+            "imageId": 227440,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9165",
+            "name": "Sophie Devine",
+            "imageId": 765923,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11855",
+            "name": "Amelia Kerr",
+            "imageId": 765932,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "11362",
+            "name": "Leigh Kasperek",
+            "imageId": 151433,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "10001",
+            "name": "Katey Martin",
+            "imageId": 227448,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9176",
+            "name": "Rachel Priest",
+            "imageId": 154924,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11364",
+            "name": "Erin Bermingham",
+            "imageId": 156132,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "11363",
+            "name": "Thamsyn Newton",
+            "imageId": 154564,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9170",
+            "name": "Lea Tahuhu",
+            "imageId": 765950,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "9998",
+            "name": "Holly Huddleston",
+            "imageId": 156125,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11376",
+            "name": "Anna Peterson",
+            "imageId": 151529,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "11365",
+            "name": "Hannah Rowe",
+            "imageId": 254929,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        }
+    ]
+}

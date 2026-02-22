@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "33",
+                "95",
+                "38",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "45",
+                "38",
+                "12",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "670",
+                "270",
+                "46",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "855",
+                "290",
+                "48",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "72",
+                "48",
+                "12",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "17.18",
+                "10.38",
+                "6.57",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "78.37",
+                "93.11",
+                "95.84",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "6",
+                "12",
+                "5",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "90",
+                "22",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "21",
+                "11",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "9",
+                "7",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "4",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Matt Henry Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9067/matt-henry"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

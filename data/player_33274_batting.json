@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "0",
+                "0",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "0",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "0",
+                "0",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "0",
+                "0",
+                "19"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "0",
+                "0",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "0",
+                "0",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "0",
+                "0",
+                "189.48"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "0",
+                "0",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "0",
+                "0",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Lucy Hamilton Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/33274/lucy-hamilton"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

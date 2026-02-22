@@ -1,0 +1,208 @@
+{
+    "id": "11256",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm offbreak",
+    "name": "Hayley Matthews",
+    "nickName": "Hayley Matthews",
+    "role": "Batting Allrounder",
+    "intlTeam": "West Indies",
+    "teams": "West Indies Women, Hobart Hurricanes Women, Southern Vipers, Velocity, Loughborough Lightning, Welsh Fire Women, Trailblazers, Barbados Women, Barbados Royals Women, Melbourne Renegades Women, Mumbai Indians Women",
+    "DoB": "March 19, 1998 (27 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/11256.jpg",
+    "bio": "A child prodigy, Hayley Matthews was born in Barbados and raised in Bridgetown. She was introduced to cricket by her father and older brother at home after school. At the age of 8, she asked her school boys' team coach whether she could be a part of the team. Her request was accepted and by the age of 11 had become the team's captain. <br/>  <br/> Her extraordinary rise continued when she captained the boys Under-13 team - the first female to do so. Her international debut came at the age of 16 in a T20I game against New Zealand in 2014 and soon later that year, she made her ODI debut too.  <br/>  <br/> Matthews was a key member of the 2016 World Twenty20 which West Indies won and shone in the final making a 45-ball 66. In the 2015-16 season Matthews played domestic cricket in Australia and also featured in the inaugural season of the Women's Big Bash League for Hobart Hurricanes. <br/>  <br/> In 2018, Matthews was named as the vice-captain of West Indies ahead of the World Twenty20.  <br/>  <br/> Controversy though followed when Matthews was handed an eight-match ban in September 2019 prior to the Australia series by a six-member CWI Disciplinary Tribunal for breaching Cricket West Indies' Code of Conduct for an alleged incident post a training session. But she soon made her comeback once the ban ended. <br/>  <br/> Matthews opens for West Indies and bowls offbreaks making her an integral part of the current team. She wants more women cricketers to play alongside males in junior-level cricket as it helps them gain more exposure to high-level cricket at a young age. She has the distinction of batting alongside Shai Hope and has used Carlos Brathwaite's brand of cricket equipment. Matthews still keeps in touch with most of the male players she captained at Under-13 level. <br/>  <br/> <b>Interesting facts about Matthews:</b> <br/>  <br/> Matthews started off as an athlete and competed in the javelin throw for Barbados. In the 2015 CARIFTA Games she won her first gold medal, again competing in the under-18 category.  <br/>  <br/> Even though she dabbled in both track and field and cricket, she eventually chose the latter. <br/>  <br/> At the age of 18, Matthews had already played in the Men's First Division, alongside Shai Hope.",
+    "rankings": {
+        "bat": {
+            "odiRank": "9",
+            "t20Rank": "2",
+            "odiBestRank": "4",
+            "t20BestRank": "2"
+        },
+        "bowl": {
+            "odiRank": "8",
+            "t20Rank": "16",
+            "odiBestRank": "5",
+            "t20BestRank": "1",
+            "t20DiffRank": "+1"
+        },
+        "all": {
+            "odiRank": "2",
+            "t20Rank": "1",
+            "odiBestRank": "1",
+            "t20BestRank": "1"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Hayley Matthews Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11256/hayley-matthews"
+    },
+    "DoBFormat": "March 19, 1998",
+    "faceImageId": 254970,
+    "teamNameIds": [
+        {
+            "teamId": "257",
+            "teamName": "West Indies Women"
+        },
+        {
+            "teamId": "357",
+            "teamName": "Hobart Hurricanes Women"
+        },
+        {
+            "teamId": "417",
+            "teamName": "Southern Vipers"
+        },
+        {
+            "teamId": "530",
+            "teamName": "Velocity"
+        },
+        {
+            "teamId": "421",
+            "teamName": "Loughborough Lightning"
+        },
+        {
+            "teamId": "614",
+            "teamName": "Welsh Fire Women"
+        },
+        {
+            "teamId": "446",
+            "teamName": "Trailblazers"
+        },
+        {
+            "teamId": "1011",
+            "teamName": "Barbados Women"
+        },
+        {
+            "teamId": "1137",
+            "teamName": "Barbados Royals Women"
+        },
+        {
+            "teamId": "358",
+            "teamName": "Melbourne Renegades Women"
+        },
+        {
+            "teamId": "1468",
+            "teamName": "Mumbai Indians Women"
+        }
+    ],
+    "playerTeamIds": "257, 357, 417, 530, 421, 614, 446, 1011, 1137, 358, 1468",
+    "intlTeamImageId": 776191,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139753",
+                    "6(8)",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "56(39)",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "12(15)",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "13(13)",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139615",
+                    "22(12)",
+                    "GGTW",
+                    "T20",
+                    "13 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139615/miw-vs-ggtw-6th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "139753",
+                    "0-40",
+                    "GGTW",
+                    "T20",
+                    "30 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139753/miw-vs-ggtw-19th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139720",
+                    "3-10",
+                    "RCBW",
+                    "T20",
+                    "26 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139720/rcbw-vs-miw-16th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139692",
+                    "0-19",
+                    "DCW",
+                    "T20",
+                    "20 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139692/dcw-vs-miw-13th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139659",
+                    "1-40",
+                    "UPW",
+                    "T20",
+                    "17 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139659/upw-vs-miw-10th-match-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139615",
+                    "1-34",
+                    "GGTW",
+                    "T20",
+                    "13 Jan 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139615/miw-vs-ggtw-6th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

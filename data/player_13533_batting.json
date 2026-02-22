@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "14",
+                "89",
+                "29"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "8",
+                "26",
+                "15"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "105",
+                "93",
+                "188"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "121",
+                "97",
+                "132"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "48",
+                "14",
+                "66"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "17.5",
+                "5.47",
+                "17.09"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "86.78",
+                "95.88",
+                "142.43"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "2",
+                "9",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "10",
+                "5",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "0",
+                "1",
+                "10"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "0",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Radha Yadav Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/13533/radha-yadav"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11452,
+            "seriesName": "ACC Women's Asia Cup Rising Stars 2026"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "21",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "40",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "4678",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "2378",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "127",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "97",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "24.52",
+                "0.0",
+                "0.0",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "3.05",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "48.23",
+                "0.0",
+                "0.0",
+                "0.0"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "8/46",
+                "-/-",
+                "-/-",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "11/147",
+                "-/-",
+                "-/-",
+                "-/-"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "3",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "9",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "3",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Noman Ali Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/14545/noman-ali"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

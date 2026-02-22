@@ -1,0 +1,122 @@
+{
+    "player": [
+        {
+            "name": "BATSMEN",
+            "imageId": 174146
+        },
+        {
+            "id": "9178",
+            "name": "Mignon du Preez",
+            "imageId": 227566,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "10002",
+            "name": "Andrie Steyn",
+            "imageId": 227549,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "11374",
+            "name": "Laura Wolvaardt",
+            "imageId": 767127,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "name": "ALL ROUNDER",
+            "imageId": 174146
+        },
+        {
+            "id": "9185",
+            "name": "Dane van Niekerk",
+            "imageId": 157824,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak"
+        },
+        {
+            "id": "12752",
+            "name": "Nadine de Klerk",
+            "imageId": 767128,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9651",
+            "name": "Moseline Daniels",
+            "imageId": 156933,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium"
+        },
+        {
+            "id": "9182",
+            "name": "Marizanne Kapp",
+            "imageId": 767132,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9198",
+            "name": "Sune Luus",
+            "imageId": 767133,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        },
+        {
+            "id": "9192",
+            "name": "Chloe Tryon",
+            "imageId": 767134,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox"
+        },
+        {
+            "name": "WICKET KEEPER",
+            "imageId": 174146
+        },
+        {
+            "id": "9186",
+            "name": "Trisha Chetty",
+            "imageId": 227580,
+            "battingStyle": "Right-hand bat"
+        },
+        {
+            "id": "9653",
+            "name": "Lizelle Lee",
+            "imageId": 586265,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "name": "BOWLER",
+            "imageId": 174146
+        },
+        {
+            "id": "11346",
+            "name": "Ayabonga Khaka",
+            "imageId": 767142,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "11335",
+            "name": "Masabata Klaas",
+            "imageId": 767140,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium"
+        },
+        {
+            "id": "9189",
+            "name": "Shabnim Ismail",
+            "imageId": 255018,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium"
+        },
+        {
+            "id": "12751",
+            "name": "Raisibe Ntozakhe",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "18",
+                "36",
+                "41",
+                "52"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "34",
+                "36",
+                "41",
+                "52"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "3620",
+                "1895",
+                "910",
+                "1218"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1806",
+                "1585",
+                "1240",
+                "1602"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "122",
+                "28",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "60",
+                "65",
+                "52",
+                "59"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "30.1",
+                "24.38",
+                "23.85",
+                "27.15"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "2.99",
+                "5.02",
+                "8.18",
+                "7.89"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "60.33",
+                "29.15",
+                "17.5",
+                "20.64"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "6/45",
+                "6/40",
+                "4/33",
+                "3/15"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "8/85",
+                "6/40",
+                "4/33",
+                "3/15"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "0",
+                "2",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "4",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Jofra Archer Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11540/jofra-archer"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

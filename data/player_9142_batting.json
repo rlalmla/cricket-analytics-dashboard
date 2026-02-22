@@ -1,0 +1,164 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "13",
+                "141",
+                "112",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "18",
+                "82",
+                "67",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "184",
+                "1090",
+                "590",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "636",
+                "1438",
+                "521",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "52",
+                "72",
+                "42",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "13.14",
+                "18.17",
+                "15.95",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "28.94",
+                "75.80",
+                "113.25",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "4",
+                "22",
+                "30",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "21",
+                "89",
+                "48",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "9",
+                "11",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "1",
+                "5",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "2",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Katherine Sciver-Brunt Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9142/katherine-sciver-brunt"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "id": "9182",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm medium",
+    "name": "Marizanne Kapp",
+    "nickName": "Marizanne Kapp",
+    "role": "Bowling Allrounder",
+    "birthPlace": "Port Elizabeth, Cape Province",
+    "intlTeam": "South Africa",
+    "teams": "South Africa Women, Sydney Sixers Women, Surrey Stars, MI London Women, Perth Scorchers Women, Barbados Royals Women, Sydney Thunder Women, Melbourne Stars Women, Delhi Capitals Women",
+    "DoB": "January 04, 1990 (36 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/9182.jpg",
+    "bio": "Undoubtedly, the best ever women's all-rounder South Africa has ever had till date (April 2025). Having started her career as a swing bowler, Kapp's progress in international cricket is a lesson many young cricketers aspire to follow. After making her debut in 2009 T20 World Cup in Australia, Kapp went onto become a solid all-rounder who is highly-reliable in all departments of the game. Kapp played a lot of netball and was also an active participant in a lot of athletic events during her college days. Irrespective of the format, Kapp usually is a trusted new-ball bowler and bats in the middle-order. She did play a rather aggressive role at the top of the order with the bat in franchise cricket, but her ability to move the new ball and ample slower ball variations helped her build and sustain the reputation for over a decade.  <br/>  <br/> In September 2013, Kapp became the third player to clinch a hat-trick (against Bangladesh) in WT20Is. Besides her accolades in cricket, Kapp also has a degree in Sports management.  The legendary all-rounder decided to retire from interntional cricket in 2024, but had a conversation with CSA's director of cricket at that time, Enoch Nkwe, who helped Kapp reconsider her decision and continue playing for South Africa. Unfortunately for Kapp, she was part of both T20 World Cup finals in 2023 and 2024 and ended up on the losing side. <br/>  <br/> <b>Did you know?</b> <br/> Kapp decided to retire in early 2024 (well before the T20 World Cup), but had a conversation with then CSA's director of cricket, Enoch Nkwe who helped the legendary all-rounder reconsider her decision and continue playing for South Africa.",
+    "rankings": {
+        "bat": {
+            "odiRank": "17",
+            "t20Rank": "58",
+            "odiBestRank": "6",
+            "t20BestRank": "26"
+        },
+        "bowl": {
+            "odiRank": "3",
+            "t20Rank": "22",
+            "odiBestRank": "1",
+            "t20BestRank": "21",
+            "t20DiffRank": "-1"
+        },
+        "all": {
+            "odiRank": "3",
+            "t20Rank": "9",
+            "odiBestRank": "1",
+            "t20BestRank": "6",
+            "t20DiffRank": "-1"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Marizanne Kapp Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9182/marizanne-kapp"
+    },
+    "DoBFormat": "January 04, 1990",
+    "faceImageId": 767132,
+    "teamNameIds": [
+        {
+            "teamId": "260",
+            "teamName": "South Africa Women"
+        },
+        {
+            "teamId": "361",
+            "teamName": "Sydney Sixers Women"
+        },
+        {
+            "teamId": "422",
+            "teamName": "Surrey Stars"
+        },
+        {
+            "teamId": "613",
+            "teamName": "MI London Women"
+        },
+        {
+            "teamId": "360",
+            "teamName": "Perth Scorchers Women"
+        },
+        {
+            "teamId": "1137",
+            "teamName": "Barbados Royals Women"
+        },
+        {
+            "teamId": "362",
+            "teamName": "Sydney Thunder Women"
+        },
+        {
+            "teamId": "359",
+            "teamName": "Melbourne Stars Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        }
+    ],
+    "playerTeamIds": "260, 361, 422, 613, 360, 1137, 362, 359, 1461",
+    "intlTeamImageId": 776287,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "122170",
+                    "DNB",
+                    "PAKW",
+                    "T20I",
+                    "16 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/122170/rsaw-vs-pakw-3rd-t20i-pakistan-women-tour-of-south-africa-2026"
+            },
+            {
+                "values": [
+                    "122165",
+                    "9(8)",
+                    "PAKW",
+                    "T20I",
+                    "13 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/122165/rsaw-vs-pakw-2nd-t20i-pakistan-women-tour-of-south-africa-2026"
+            },
+            {
+                "values": [
+                    "139786",
+                    "DNB",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "4*(3)",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "0(5)",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "122170",
+                    "0-11",
+                    "PAKW",
+                    "T20I",
+                    "16 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/122170/rsaw-vs-pakw-3rd-t20i-pakistan-women-tour-of-south-africa-2026"
+            },
+            {
+                "values": [
+                    "122165",
+                    "1-25",
+                    "PAKW",
+                    "T20I",
+                    "13 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/122165/rsaw-vs-pakw-2nd-t20i-pakistan-women-tour-of-south-africa-2026"
+            },
+            {
+                "values": [
+                    "139786",
+                    "0-38",
+                    "RCBW",
+                    "T20",
+                    "05 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139786/rcbw-vs-dcw-final-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139775",
+                    "0-32",
+                    "GGTW",
+                    "T20",
+                    "03 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139775/ggtw-vs-dcw-eliminator-women's-premier-league-2026"
+            },
+            {
+                "values": [
+                    "139764",
+                    "3-30",
+                    "UPW",
+                    "T20",
+                    "01 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/139764/dcw-vs-upw-20th-match-women's-premier-league-2026"
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "4",
+                "162",
+                "120",
+                "34"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "8",
+                "139",
+                "99",
+                "28"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "395",
+                "3511",
+                "1650",
+                "411"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "654",
+                "4501",
+                "1570",
+                "332"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "150",
+                "121",
+                "75",
+                "40"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "56.43",
+                "35.11",
+                "20.37",
+                "27.4"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "60.40",
+                "78.01",
+                "105.10",
+                "123.80"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "1",
+                "39",
+                "18",
+                "13"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "63",
+                "338",
+                "149",
+                "42"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "29",
+                "20",
+                "14"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "1",
+                "10",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "2",
+                "17",
+                "5",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "1",
+                "4",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Marizanne Kapp Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9182/marizanne-kapp"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10146,
+            "seriesName": "Pakistan Women tour of South Africa, 2026"
+        }
+    ]
+}

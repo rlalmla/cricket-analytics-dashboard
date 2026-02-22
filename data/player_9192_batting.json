@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "3",
+                "124",
+                "115",
+                "5"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "6",
+                "102",
+                "93",
+                "5"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "119",
+                "2292",
+                "1299",
+                "85"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "349",
+                "2285",
+                "973",
+                "56"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "64",
+                "92",
+                "57",
+                "30"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "23.8",
+                "26.65",
+                "19.68",
+                "28.33"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "34.10",
+                "100.31",
+                "133.51",
+                "151.79"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "1",
+                "16",
+                "27",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "19",
+                "206",
+                "115",
+                "9"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "74",
+                "49",
+                "3"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "2",
+                "5",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "14",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Chloe Tryon Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/9192/chloe-tryon"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10146,
+            "seriesName": "Pakistan Women tour of South Africa, 2026"
+        }
+    ]
+}

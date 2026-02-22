@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "16",
+                "21",
+                "37"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "16",
+                "12",
+                "25"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "244",
+                "185",
+                "348"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "315",
+                "141",
+                "268"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "57",
+                "63",
+                "42"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "22.18",
+                "30.83",
+                "23.2"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "77.47",
+                "131.21",
+                "129.86"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "5",
+                "6",
+                "10"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "22",
+                "25",
+                "42"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "1",
+                "1",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "0",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "1",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Amanjot Kaur Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/22226/amanjot-kaur"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 9611,
+            "seriesName": "India Women tour of Australia, 2026"
+        }
+    ]
+}

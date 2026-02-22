@@ -1,0 +1,191 @@
+{
+    "id": "12211",
+    "bat": "Right Handed Bat",
+    "bowl": "Right-arm fast-medium",
+    "name": "Annabel Sutherland",
+    "nickName": "Sutherland",
+    "role": "Bowling Allrounder",
+    "intlTeam": "Australia",
+    "teams": "Melbourne Renegades Women, Melbourne Stars Women, Australia Women, Welsh Fire Women, Gujarat Giants Women, Delhi Capitals Women, Sunrisers Leeds Women",
+    "DoB": "October 12, 2001 (24 years)",
+    "image": "http://i.cricketcb.com/stats/img/faceImages/12211.jpg",
+    "bio": "From being tagged as daughter of former Chief Executive Cricket Australia (James Sutherland), and sister of Will Sutherland to Will she be the next Ellyse Perry? and being honoured with Belinda Clark Medal in 2015, Annabel Sutherland's journey has been full of ups and ups. Thanks to a supportive family back home, Annabel didn't take long to prove her potential to make it to the national level. After a few successful seasons at Victoria, Sutherland made her international debut during the Tri-series in Australia involving England and India in February 2020. In her debut game, chasing 157 Australia needed 40 from the final 3 overs. Sutherland showed no signs of nervousness as she slammed a 11-ball 22 that included 4 boundaries to take the game to the super-over. That was just a teaser of what is to come from Sutherland. <br/>  <br/> Fast forward 3 years, Sutherland commanded a place in every format of the national side with both bat and ball. She also went on to become one of the most valuable all-rounders in franchise cricket in the process. In February 2024, Sutherland became just the 10th women's player to claim a Test double ton. Her 210 against South Africa is also the second highest individual score by an Australian women's cricketer. A year later, Sutherland notched up 163 against England in an Ashes Test, also winning the Player of the Match award while at it. She was also part of the (ODI WC in New Zealand) World Cup winning squads in 2022 and 2023 (T20I WC in South Africa).",
+    "rankings": {
+        "bat": {
+            "odiRank": "19",
+            "odiBestRank": "16"
+        },
+        "bowl": {
+            "odiRank": "6",
+            "t20Rank": "4",
+            "odiBestRank": "6",
+            "t20BestRank": "1",
+            "t20DiffRank": "-3"
+        },
+        "all": {
+            "odiRank": "5",
+            "t20Rank": "19",
+            "odiBestRank": "4",
+            "t20BestRank": "19",
+            "t20DiffRank": "+1"
+        }
+    },
+    "appIndex": {
+        "seoTitle": "Annabel Sutherland Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/12211/annabel-sutherland"
+    },
+    "DoBFormat": "October 12, 2001",
+    "faceImageId": 767093,
+    "teamNameIds": [
+        {
+            "teamId": "358",
+            "teamName": "Melbourne Renegades Women"
+        },
+        {
+            "teamId": "359",
+            "teamName": "Melbourne Stars Women"
+        },
+        {
+            "teamId": "100",
+            "teamName": "Australia Women"
+        },
+        {
+            "teamId": "614",
+            "teamName": "Welsh Fire Women"
+        },
+        {
+            "teamId": "1479",
+            "teamName": "Gujarat Giants Women"
+        },
+        {
+            "teamId": "1461",
+            "teamName": "Delhi Capitals Women"
+        },
+        {
+            "teamId": "619",
+            "teamName": "Sunrisers Leeds Women"
+        }
+    ],
+    "playerTeamIds": "358, 359, 100, 614, 1479, 1461, 619",
+    "intlTeamImageId": 776202,
+    "recentBatting": {
+        "headers": [
+            "Score",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "117029",
+                    "3(6)",
+                    "INDW",
+                    "T20I",
+                    "15 Feb 26"
+                ],
+                "followUpLinkText": "/live-cricket-scores/117029/ausw-vs-indw-1st-t20i-india-women-tour-of-australia-2026"
+            },
+            {
+                "values": [
+                    "121670",
+                    "3(6)",
+                    "INDW",
+                    "ODI",
+                    "30 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121670/ausw-vs-indw-2nd-semi-final-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121637",
+                    "10*(4)",
+                    "RSAW",
+                    "ODI",
+                    "25 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121637/ausw-vs-rsaw-26th-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121620",
+                    "98*(112)",
+                    "ENGW",
+                    "ODI",
+                    "22 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121620/ausw-vs-engw-23rd-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121576",
+                    "DNB",
+                    "BANW",
+                    "ODI",
+                    "16 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121576/ausw-vs-banw-17th-match-icc-womens-world-cup-2025"
+            }
+        ]
+    },
+    "recentBowling": {
+        "headers": [
+            "Wickets",
+            "OPPN.",
+            "Format",
+            "Date"
+        ],
+        "rows": [
+            {
+                "values": [
+                    "121670",
+                    "2-69",
+                    "INDW",
+                    "ODI",
+                    "30 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121670/ausw-vs-indw-2nd-semi-final-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121637",
+                    "0-18",
+                    "RSAW",
+                    "ODI",
+                    "25 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121637/ausw-vs-rsaw-26th-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121620",
+                    "3-60",
+                    "ENGW",
+                    "ODI",
+                    "22 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121620/ausw-vs-engw-23rd-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121576",
+                    "2-41",
+                    "BANW",
+                    "ODI",
+                    "16 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121576/ausw-vs-banw-17th-match-icc-womens-world-cup-2025"
+            },
+            {
+                "values": [
+                    "121549",
+                    "5-40",
+                    "INDW",
+                    "ODI",
+                    "12 Oct 25"
+                ],
+                "followUpLinkText": "/live-cricket-scores/121549/indw-vs-ausw-13th-match-icc-womens-world-cup-2025"
+            }
+        ]
+    }
+}
