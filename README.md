@@ -1,127 +1,172 @@
-# 🏏 Cricket Analytics Dashboard
+**🏏 Cricket Analytics Dashboard**
 
-An interactive **Cricket Analytics Dashboard** built using **Python, Streamlit, and REST APIs** to analyze player performance, rankings, and match insights across multiple cricket formats.
+An interactive Cricket Analytics Dashboard built using Python, Streamlit, PostgreSQL, and REST APIs to analyze player performance, rankings, and match insights across multiple cricket formats.
 
-This project integrates live cricket data from external APIs, processes it through a custom data pipeline, and presents meaningful analytics through an intuitive web interface.
+This project integrates live cricket data from external APIs, processes it through a modular data pipeline, stores the results in a PostgreSQL database, and generates analytical insights using SQL queries displayed through an interactive Streamlit dashboard.
+
+---
+**🚀 Features**
+
+📊 Player performance analysis (batting & bowling)
+
+🏆 Player rankings and comparative insights
+
+🔎 Query-based cricket analytics
+
+🌍 Multi-format support (ODI, T20, Test)
+
+⚡ Live data retrieval from Cricbuzz API
+
+🖥️ Interactive dashboard built with Streamlit
+
+🗄️ PostgreSQL database integration
+
+🔄 Modular data pipeline architecture
 
 ---
 
-## 🚀 Features
+**📈 SQL-based analytical computations**
 
-* 📊 Player performance analysis (batting & bowling)
-* 🏆 Rankings and comparative insights
-* 🔎 Query-based analytics engine
-* 🌍 Multi-format support (ODI, T20, Test)
-* ⚡ Real-time data integration via API
-* 🖥️ Interactive dashboard using Streamlit
-* 🗄️ Data processing pipeline with modular architecture
-* 📁 Local data storage for reproducibility
-
----
-
-## 🧠 Project Architecture
+**🧠 Project Architecture**
 
 ```
-User Interface (Streamlit)
+User Interface (Streamlit Dashboard)
         │
-        ▼
-Analytics Agent (Query Logic)
+        ▼  
+SQL Analytics Layer
         │
-        ▼
-Data Pipeline (API Fetch + Processing)
+        ▼  
+PostgreSQL Database (via SQLAlchemy)
         │
-        ▼
-External Cricket API / Local Data
-```
+        ▼      
+Data Processing Pipeline (Python + Pandas)
+        │
+        ▼ 
+Cricbuzz API (RapidAPI)
 
+```
 ---
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 **Programming Language**
 
-* Python
+-> Python
 
 **Libraries & Tools**
 
-* Streamlit
-* Pandas
-* Requests
-* Python-Dotenv
-* PostgreSQL (optional integration)
-* Git & GitHub
+-> Streamlit
+
+-> Pandas
+
+-> NumPy
+
+-> Requests
+
+-> SQLAlchemy
+
+-> psycopg2
+
+-> python-dotenv
+
+-> PostgreSQL
+
+-> Git & GitHub
 
 **Concepts Used**
 
-* REST API Integration
-* Data Cleaning & Transformation
-* Modular Pipeline Design
-* Environment Variable Management
-* Interactive Data Visualization
+-> REST API Integration
+
+-> Data Cleaning & Transformation
+
+-> SQL Analytics
+
+-> Modular Pipeline Architecture
+
+-> Environment Variable Management
+
+-> Interactive Data Visualization
 
 ---
+
+**📂 Project Structure**
 
 ## 📂 Project Structure
 
 ```
 CRICBUZZAPP_RAMASEKAR/
-│── cricbuzzapp.py          # Streamlit application
-│── pipeline.py             # Data fetching & processing logic
-│── requirements.txt
-│── .env.example            # Environment variable template
 │
-├── data/                   # Sample datasets (CSV/JSON)
-└── docs/                   # Project documentation
+├── cricbuzzapp.py              # Streamlit dashboard
+├── pipeline.py                 # API extraction & processing pipeline
+├── requirements.txt
+├── .env.example
+│
+├── docs/
+│   └── project_documentation.pdf
+│
+└── data/
+    └── sample datasets
 ```
+
 
 ---
 
-## ⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 
-### 1️⃣ Clone Repository
+**1️⃣ Clone Repository**
 
-```
 git clone https://github.com/rlalmla/cricket-analytics-dashboard.git
+
 cd cricket-analytics-dashboard
-```
 
-### 2️⃣ Create Virtual Environment (Recommended)
+**2️⃣ Create Virtual Environment**
 
-```
 python -m venv venv
+
 venv\Scripts\activate
-```
 
-### 3️⃣ Install Dependencies
+**3️⃣ Install Dependencies**
 
-```
 pip install -r requirements.txt
+
+---
+
+**🗄️ Database Setup**
+
+Before running the application, create a PostgreSQL database named:
+
+CREATE DATABASE cricbuzz;
+
+The application will automatically create required tables using SQLAlchemy when the pipeline runs.
+
+---
+
+**🔐 Configure Environment Variables**
+
+Create a .env file using .env.example as reference.
+
+
+Example:
+
 ```
+API_KEY=your_api_key_here
+RAPIDAPI_HOST=cricbuzz-cricket.p.rapidapi.com
 
-### 4️⃣ Configure Environment Variables
-
-Create a `.env` file using `.env.example` as reference:
-
-```
-RAPIDAPI_KEY=your_api_key_here
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=cricbuzz
 DB_USER=your_username
 DB_PASSWORD=your_password
-```
 
-### 5️⃣ Run Application
-
-```
-streamlit run cricbuzzapp.py
 ```
 
 ---
 
-## 📸 Screenshots
+**▶️ Run the Application**
 
-Example:
+streamlit run cricbuzzapp.py
+
+The Streamlit dashboard will open automatically in your browser.
 
 ## 📸 Screenshots
 
@@ -137,25 +182,37 @@ Example:
 ### CRUD Operations
 ![CRUD Operations](https://github.com/user-attachments/assets/6bffd6bb-1319-4763-872e-55d4d327b694)
 
+---
 
-## 🎯 Key Learning Outcomes
+**🎯 Key Learning Outcomes**
 
-* Building end-to-end data applications
-* API data extraction and transformation
-* Designing modular analytics pipelines
-* Developing interactive dashboards
-* Managing configuration securely with environment variables
-* Version control with Git
+-> Building end-to-end data analytics applications
+
+-> Designing API-driven data pipelines
+
+-> Integrating PostgreSQL with Python using SQLAlchemy
+
+-> Performing SQL-based analytics
+
+-> Developing interactive dashboards using Streamlit
+
+-> Managing secure configuration using environment variables
+
+-> Version control using Git & GitHub
 
 ---
 
-## 🔮 Future Enhancements
+**🔮 Future Enhancements**
 
-* Advanced predictive analytics (match outcome prediction)
-* Deployment on cloud platforms (AWS / Streamlit Cloud)
-* Database optimization and caching
-* Enhanced visualizations with Plotly
-* User authentication system
+Predictive match outcome modeling using machine learning
+
+Cloud deployment (AWS / Streamlit Cloud)
+
+Query optimization and caching
+
+Advanced visualizations using Plotly
+
+User authentication system
 
 ---
 
