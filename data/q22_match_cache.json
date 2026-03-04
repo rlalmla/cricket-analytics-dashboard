@@ -1,0 +1,1923 @@
+{
+  "91778": {
+    "matchid": 91778,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "1st Test",
+    "matchformat": "TEST",
+    "startdate": 1732242000000,
+    "enddate": 1732520930981,
+    "state": "Complete",
+    "status": "India opt to bat",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 6864,
+      "name": "Chris Gaffaney",
+      "country": "NZ"
+    },
+    "umpire3": {
+      "id": 5398,
+      "name": "Richard Illingworth",
+      "country": "ENG"
+    },
+    "referee": {
+      "id": 3513,
+      "name": "Ranjan Madugalle",
+      "country": "SL"
+    },
+    "venueinfo": {
+      "id": 512,
+      "ground": "Perth Stadium",
+      "city": "Perth",
+      "country": "Australia",
+      "timezone": "+08:00",
+      "established": 0,
+      "capacity": "60000",
+      "knownas": "",
+      "ends": "",
+      "hometeam": "",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 1st Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/91778/aus-vs-ind-1st-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bat",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,DD Sports"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 580797,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "91787": {
+    "matchid": 91787,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "2nd Test",
+    "matchformat": "TEST",
+    "startdate": 1733457600000,
+    "enddate": 1733636367971,
+    "state": "Complete",
+    "status": "India opt to bat",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 5398,
+      "name": "Richard Illingworth",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 6864,
+      "name": "Chris Gaffaney",
+      "country": "NZ"
+    },
+    "umpire3": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "referee": {
+      "id": 3513,
+      "name": "Ranjan Madugalle",
+      "country": "SL"
+    },
+    "venueinfo": {
+      "id": 40,
+      "ground": "Adelaide Oval",
+      "city": "Adelaide",
+      "country": "Australia",
+      "timezone": "+10:30",
+      "established": 1871,
+      "capacity": "53,583 (including standing room)",
+      "knownas": "",
+      "ends": "City End, Cathedral End",
+      "hometeam": "South Australia and Adelaide Strikers",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 2nd Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/91787/aus-vs-ind-2nd-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bat",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,DD Sports"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 585539,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "91796": {
+    "matchid": 91796,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "3rd Test",
+    "matchformat": "TEST",
+    "startdate": 1734135600000,
+    "enddate": 1734499805052,
+    "state": "Complete",
+    "status": "India opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 5398,
+      "name": "Richard Illingworth",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "umpire3": {
+      "id": 6864,
+      "name": "Chris Gaffaney",
+      "country": "NZ"
+    },
+    "referee": {
+      "id": 3513,
+      "name": "Ranjan Madugalle",
+      "country": "SL"
+    },
+    "venueinfo": {
+      "id": 35,
+      "ground": "The Gabba",
+      "city": "Brisbane",
+      "country": "Australia",
+      "timezone": "+10:00",
+      "established": 1895,
+      "capacity": "42000 (approx)",
+      "knownas": "",
+      "ends": "Stanley Street End, Vulture Street End",
+      "hometeam": "Queensland, Brisbane Heat",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 3rd Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bowl",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,DD Sports"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "Draw",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 588653,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "91805": {
+    "matchid": 91805,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "4th Test",
+    "matchformat": "TEST",
+    "startdate": 1735169400000,
+    "enddate": 1735539839492,
+    "state": "Complete",
+    "status": "Australia opt to bat",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 7931,
+      "name": "Joel Wilson",
+      "country": "WI"
+    },
+    "umpire2": {
+      "id": 8034,
+      "name": "Michael Gough",
+      "country": "ENG"
+    },
+    "umpire3": {
+      "id": 6865,
+      "name": "Sharfuddoula",
+      "country": "BAN"
+    },
+    "referee": {
+      "id": 3395,
+      "name": "Andy Pycroft",
+      "country": "ZIM"
+    },
+    "venueinfo": {
+      "id": 87,
+      "ground": "Melbourne Cricket Ground",
+      "city": "Melbourne",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1854,
+      "capacity": "100000 (approx, including standing room)",
+      "knownas": "",
+      "ends": "Members End, Great Southern Stand End",
+      "hometeam": "Australia, Victoria",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 4th Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/91805/aus-vs-ind-4th-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bat",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,DD Sports"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 593630,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "91814": {
+    "matchid": 91814,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "5th Test",
+    "matchformat": "TEST",
+    "startdate": 1735860600000,
+    "enddate": 1736047457723,
+    "state": "Complete",
+    "status": "India opt to bat",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 8034,
+      "name": "Michael Gough",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 6865,
+      "name": "Sharfuddoula",
+      "country": "BAN"
+    },
+    "umpire3": {
+      "id": 7931,
+      "name": "Joel Wilson",
+      "country": "WI"
+    },
+    "referee": {
+      "id": 3395,
+      "name": "Andy Pycroft",
+      "country": "ZIM"
+    },
+    "venueinfo": {
+      "id": 34,
+      "ground": "Sydney Cricket Ground",
+      "city": "Sydney",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1854,
+      "capacity": "48,000",
+      "knownas": "",
+      "ends": "Paddington End, Randwick End",
+      "hometeam": "New South Wales, Sydney Sixers",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 5th Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/91814/aus-vs-ind-5th-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bat",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,DD Sports"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 596629,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "87850": {
+    "matchid": 87850,
+    "seriesid": 7476,
+    "seriesname": "ICC Mens T20 World Cup 2024",
+    "matchdesc": "51st Match, Super 8 Group 1",
+    "matchformat": "T20",
+    "startdate": 1719239400000,
+    "enddate": 1719252911732,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 5398,
+      "name": "Richard Illingworth",
+      "country": "ENG"
+    },
+    "umpire3": {
+      "id": 8034,
+      "name": "Michael Gough",
+      "country": "ENG"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 59,
+      "ground": "Daren Sammy National Cricket Stadium",
+      "city": "Gros Islet, St Lucia",
+      "country": "West Indies",
+      "timezone": "-04:00",
+      "established": 2002,
+      "capacity": "15,000 (increasing to 20,000)",
+      "knownas": "",
+      "ends": "Pavilion End, Media Centre End",
+      "hometeam": "West Indies",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 51st Match, Super 8 Group 1,ICC Mens T20 World Cup 2024 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/87850/aus-vs-ind-51st-match-super-8-group-1-icc-mens-t20-world-cup-2024"
+    },
+    "istournament": true,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1717113600000,
+    "seriesenddt": 1719705600000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": true,
+    "broadcastinfo": [],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "WCT20",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 503307,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116912": {
+    "matchid": 116912,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "1st ODI",
+    "matchformat": "ODI",
+    "startdate": 1760844600000,
+    "enddate": 1760872191171,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 8170,
+      "name": "Sam Nogajski",
+      "country": "AUS"
+    },
+    "umpire3": {
+      "id": 9767,
+      "name": "Allahudien Paleker",
+      "country": "RSA"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 512,
+      "ground": "Perth Stadium",
+      "city": "Perth",
+      "country": "Australia",
+      "timezone": "+08:00",
+      "established": 0,
+      "capacity": "60000",
+      "knownas": "",
+      "ends": "",
+      "hometeam": "",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 1st ODI,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116912/aus-vs-ind-1st-odi-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 771490,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116921": {
+    "matchid": 116921,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "2nd ODI",
+    "matchformat": "ODI",
+    "startdate": 1761190200000,
+    "enddate": 1761219516660,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 9767,
+      "name": "Allahudien Paleker",
+      "country": "RSA"
+    },
+    "umpire2": {
+      "id": 8170,
+      "name": "Sam Nogajski",
+      "country": "AUS"
+    },
+    "umpire3": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 40,
+      "ground": "Adelaide Oval",
+      "city": "Adelaide",
+      "country": "Australia",
+      "timezone": "+10:30",
+      "established": 1871,
+      "capacity": "53,583 (including standing room)",
+      "knownas": "",
+      "ends": "City End, Cathedral End",
+      "hometeam": "South Australia and Adelaide Strikers",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 2nd ODI,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116921/aus-vs-ind-2nd-odi-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 773139,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116927": {
+    "matchid": 116927,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "3rd ODI",
+    "matchformat": "ODI",
+    "startdate": 1761363000000,
+    "enddate": 1761387062963,
+    "state": "Complete",
+    "status": "Australia opt to bat",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 6866,
+      "name": "Richard Kettleborough",
+      "country": "ENG"
+    },
+    "umpire2": {
+      "id": 7479,
+      "name": "Wayne Knights",
+      "country": "NZ"
+    },
+    "umpire3": {
+      "id": 9767,
+      "name": "Allahudien Paleker",
+      "country": "RSA"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 34,
+      "ground": "Sydney Cricket Ground",
+      "city": "Sydney",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1854,
+      "capacity": "48,000",
+      "knownas": "",
+      "ends": "Paddington End, Randwick End",
+      "hometeam": "New South Wales, Sydney Sixers",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 3rd ODI,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116927/aus-vs-ind-3rd-odi-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bat",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 774824,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116936": {
+    "matchid": 116936,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "1st T20I",
+    "matchformat": "T20",
+    "startdate": 1761725700000,
+    "enddate": 1761735563910,
+    "state": "Complete",
+    "status": "No result (due to rain)-Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 8170,
+      "name": "Sam Nogajski",
+      "country": "AUS"
+    },
+    "umpire2": {
+      "id": 7479,
+      "name": "Wayne Knights",
+      "country": "NZ"
+    },
+    "umpire3": {
+      "id": 10167,
+      "name": "Phillip Gillespie",
+      "country": "AUS"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 123,
+      "ground": "Manuka Oval",
+      "city": "Canberra",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1929,
+      "capacity": "13,550",
+      "knownas": "",
+      "ends": "Pool End, Mall End",
+      "hometeam": "Australian Capital Territory, New South Wales, Pri",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 1st T20I,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116936/aus-vs-ind-1st-t20i-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "No Result",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 776371,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116945": {
+    "matchid": 116945,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "2nd T20I ",
+    "matchformat": "T20",
+    "startdate": 1761898500000,
+    "enddate": 1761910507601,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 9615,
+      "name": "Shawn Craig",
+      "country": "AUS"
+    },
+    "umpire2": {
+      "id": 7479,
+      "name": "Wayne Knights",
+      "country": "NZ"
+    },
+    "umpire3": {
+      "id": 8170,
+      "name": "Sam Nogajski",
+      "country": "AUS"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 87,
+      "ground": "Melbourne Cricket Ground",
+      "city": "Melbourne",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1854,
+      "capacity": "100000 (approx, including standing room)",
+      "knownas": "",
+      "ends": "Members End, Great Southern Stand End",
+      "hometeam": "Australia, Victoria",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 2nd T20I ,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116945/aus-vs-ind-2nd-t20i-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": true,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 777070,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116954": {
+    "matchid": 116954,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "3rd T20I",
+    "matchformat": "T20",
+    "startdate": 1762071300000,
+    "enddate": 1762083731420,
+    "state": "Complete",
+    "status": "India opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 10167,
+      "name": "Phillip Gillespie",
+      "country": "AUS"
+    },
+    "umpire2": {
+      "id": 8170,
+      "name": "Sam Nogajski",
+      "country": "AUS"
+    },
+    "umpire3": {
+      "id": 9615,
+      "name": "Shawn Craig",
+      "country": "AUS"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 39,
+      "ground": "Bellerive Oval",
+      "city": "Hobart",
+      "country": "Australia",
+      "timezone": "+11:00",
+      "established": 1914,
+      "capacity": "20,000",
+      "knownas": "",
+      "ends": "Church Street End, River End",
+      "hometeam": "Tasmania, Hobart Hurricanes",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 3rd T20I,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116954/aus-vs-ind-3rd-t20i-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 778241,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116957": {
+    "matchid": 116957,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "4th T20I",
+    "matchformat": "T20",
+    "startdate": 1762416900000,
+    "enddate": 1762430024371,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 10167,
+      "name": "Phillip Gillespie",
+      "country": "AUS"
+    },
+    "umpire2": {
+      "id": 7240,
+      "name": "Rod Tucker",
+      "country": "AUS"
+    },
+    "umpire3": {
+      "id": 9615,
+      "name": "Shawn Craig",
+      "country": "AUS"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 530,
+      "ground": "Carrara Oval",
+      "city": "Queensland",
+      "country": "Australia",
+      "timezone": "+10:00",
+      "established": 0,
+      "capacity": "15,500",
+      "knownas": "",
+      "ends": "",
+      "hometeam": "Queensland",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 4th T20I,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116957/aus-vs-ind-4th-t20i-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 779891,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "116963": {
+    "matchid": 116963,
+    "seriesid": 9596,
+    "seriesname": "India tour of Australia, 2025",
+    "matchdesc": "5th T20I",
+    "matchformat": "T20",
+    "startdate": 1762589700000,
+    "enddate": 1762598777614,
+    "state": "Complete",
+    "status": "No result (due to rain)-Australia opt to bowl",
+    "team1": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 7240,
+      "name": "Rod Tucker",
+      "country": "AUS"
+    },
+    "umpire2": {
+      "id": 9615,
+      "name": "Shawn Craig",
+      "country": "AUS"
+    },
+    "umpire3": {
+      "id": 10167,
+      "name": "Phillip Gillespie",
+      "country": "AUS"
+    },
+    "referee": {
+      "id": 4033,
+      "name": "Jeff Crowe",
+      "country": "NZ"
+    },
+    "venueinfo": {
+      "id": 35,
+      "ground": "The Gabba",
+      "city": "Brisbane",
+      "country": "Australia",
+      "timezone": "+10:00",
+      "established": 1895,
+      "capacity": "42000 (approx)",
+      "knownas": "",
+      "ends": "Stanley Street End, Vulture Street End",
+      "hometeam": "Queensland, Brisbane Heat",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts AUS vs IND 5th T20I,India tour of Australia, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/116963/aus-vs-ind-5th-t20i-india-tour-of-australia-2025"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1760745600000,
+    "seriesenddt": 1762646400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network"
+          }
+        ]
+      }
+    ],
+    "daynight": true,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "No Result",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 781028,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  },
+  "112462": {
+    "matchid": 112462,
+    "seriesid": 9325,
+    "seriesname": "ICC Champions Trophy, 2025",
+    "matchdesc": "1st Semi-Final (A1 v B2)",
+    "matchformat": "ODI",
+    "startdate": 1741078800000,
+    "enddate": 1741104312179,
+    "state": "Complete",
+    "status": "Australia opt to bat",
+    "team1": {
+      "teamid": 2,
+      "teamname": "India",
+      "teamsname": "IND",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "team2": {
+      "teamid": 4,
+      "teamname": "Australia",
+      "teamsname": "AUS",
+      "isfullmember": false,
+      "isassociated": false,
+      "isleagueteam": false,
+      "iswomenteam": false,
+      "isheader": false,
+      "isactive": false,
+      "teampriority": "",
+      "isvideopresent": false,
+      "imageid": 0,
+      "countryname": "",
+      "belongsto": "",
+      "teamcolor": ""
+    },
+    "umpire1": {
+      "id": 6864,
+      "name": "Chris Gaffaney",
+      "country": "NZ"
+    },
+    "umpire2": {
+      "id": 5398,
+      "name": "Richard Illingworth",
+      "country": "ENG"
+    },
+    "umpire3": {
+      "id": 8034,
+      "name": "Michael Gough",
+      "country": "ENG"
+    },
+    "referee": {
+      "id": 3395,
+      "name": "Andy Pycroft",
+      "country": "ZIM"
+    },
+    "venueinfo": {
+      "id": 153,
+      "ground": "Dubai International Cricket Stadium",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "timezone": "+04:00",
+      "established": 0,
+      "capacity": "25,000",
+      "knownas": "",
+      "ends": "Emirates Road End, Dubai Sports City End",
+      "hometeam": "United Arab Emirates",
+      "floodlights": false,
+      "curator": "",
+      "profile": "",
+      "imageurl": "",
+      "groundlength": 0.0,
+      "groundwidth": 0.0,
+      "othersports": "",
+      "imageid": 0,
+      "latitude": "",
+      "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+      "seotitle": "Cricket match facts IND vs AUS 1st Semi-Final (A1 v B2),ICC Champions Trophy, 2025 | Cricbuzz.com",
+      "weburl": "http://www.cricbuzz.com/cricket-match-facts/112462/ind-vs-aus-1st-semi-final-a1-v-b2-icc-champions-trophy-2025"
+    },
+    "istournament": true,
+    "tossstatus": "Australia opt to bat",
+    "seriesstartdt": 1739836800000,
+    "seriesenddt": 1741564800000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": true,
+    "broadcastinfo": [
+      {
+        "country": "IN",
+        "broadcaster": [
+          {
+            "broadcasttype": "Streaming",
+            "value": "JioHotstar"
+          },
+          {
+            "broadcasttype": "TV",
+            "value": "Star Sports Network,Sports 18 Network"
+          }
+        ]
+      }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+      "boundarytrackervalue": []
+    },
+    "matchimageid": 622697,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+  }
+}

@@ -4,13 +4,29 @@ import requests
 import json
 import pipeline
 import os
-import os
+from pipeline import engine
+
+import streamlit as st
+
 from dotenv import load_dotenv
 
-load_dotenv()
+
+# Load environment variables (optional if already done in pipeline)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(BASE_DIR, ".env"))
+
+# Test database connection
+if engine:
+    try:
+        with engine.connect() as conn:
+            st.success("Database connected successfully ✅")
+    except Exception as e:
+        st.error(f"Connection failed: {e}")
+else:
+    st.error("Engine is None")
 
 # -------- API --------
-API_KEY = os.getenv("RAPIDAPI_KEY") or "DUMMY_KEY"
+API_KEY = os.getenv("API_KEY") or "DUMMY_KEY"
 
 headers = {
     "x-rapidapi-key": API_KEY,
@@ -369,69 +385,86 @@ elif option == SQL:
     }
 
     selected_q = st.selectbox("Select a query", questions, format_func=lambda x: f"{x}: {question_labels.get(x, '')}")
-    
+        
     if st.button("Execute"):
+        
         with st.spinner("Calculating..."):
             try:
                 res = pd.DataFrame()
-                if selected_q == "Question 1": res = pipeline.get_team_players(2)
-                elif selected_q == "Question 2": res = getattr(pipeline, 'recent_df', pd.DataFrame())
-                elif selected_q == "Question 3": res = getattr(pipeline, 'rankings_df', pd.DataFrame())
-                elif selected_q == "Question 4": res = pipeline.get_large_venues(getattr(pipeline, 'recent_df', pd.DataFrame()))
-                elif selected_q == "Question 5": res = pipeline.get_team_win_counts(getattr(pipeline, 'recent_df', pd.DataFrame()))
-                elif selected_q == "Question 6": res = pipeline.count_players_by_role(getattr(pipeline,"players_df",pd.DataFrame()))
-                elif selected_q == "Question 7": res = pipeline.get_highest_scores()
-                elif selected_q == "Question 8": res = pipeline.get_series_2024_details()
-                elif selected_q == "Question 9": res = pipeline.get_allrounders_1000runs_50wickets()
-                elif selected_q == "Question 10": res = pipeline.get_last_20_completed_matches()
-                elif selected_q == "Question 11": res = pipeline.get_player_format_comparison(pipeline.get_allrounders_1000runs_50wickets())
-
-                elif selected_q == "Question 12":
-                    res = pipeline.get_home_away_analysis(
-                        series_id=6732,
-                        headers=headers
-                    )
-
-
-                elif selected_q == "Question 13": res = pipeline.get_century_partnerships([139263])
-                elif selected_q == "Question 14": res = pipeline.get_bowler_venue_performance()
-                elif selected_q == "Question 15": res = pipeline.get_close_matches_performance(getattr(pipeline, 'recent_df', pd.DataFrame()))
-                elif selected_q == "Question 16": res = pipeline.get_yearly_batting_performance()
-                elif selected_q == "Question 17":
-                    df_toss, overall_adv, summary_df = pipeline.analyze_toss_advantage_streamlit()
-
-                    if df_toss.empty:
-                        st.warning("No toss data available.")
+                if selected_q == "Question 1":res = pipeline.get_q1_india_players()
+                elif selected_q == "Question 2":res = pipeline.get_q2_recent_matches()
+                elif selected_q == "Question 3":res = pipeline.get_q3_top_odi_scorers()
+                elif selected_q == "Question 4": res = pipeline.get_q4_large_venues()
+                elif selected_q == "Question 5":res = pipeline.get_q5_team_win_counts()
+                elif selected_q == "Question 6":res = pipeline.get_q6_players_by_role()
+                elif selected_q == "Question 7": res = pipeline.get_q7_highest_scores()
+                elif selected_q == "Question 8": res = pipeline.get_q8_series_2024()
+                elif selected_q == "Question 9": res = pipeline.get_q9_allrounders()
+                elif selected_q == "Question 10": res = pipeline.get_q10_last_20_completed_matches()
+                elif selected_q == "Question 11": res = pipeline.get_q11_player_format_comparison()
+                elif selected_q == "Question 12": 
+                    st.subheader("ICC Cricket World Cup 2023 — Home vs Away Performance")
+                    res = pipeline.get_que12_home_away_analysis()
+                elif selected_q == "Question 13": res = pipeline.get_que13_century_partnerships()
+                elif selected_q == "Question 14":
+                    res, series_name = pipeline.get_que14_bowler_venue_performance()
+                    st.subheader(f"Series: {series_name}")
+                    if res.empty:
+                      st.info(
+                         "No bowlers satisfy the criteria:\n"
+                         "• At least 3 matches at the same venue\n"
+                         "• Minimum 4 overs in each match"
+                         )
                     else:
-                        st.metric(
-                            "Overall Toss Advantage",
-                            f"{overall_adv:.2f}%"
-                        )
+                         st.dataframe(res)
+                elif selected_q == "Question 15": res = pipeline.get_que15_close_matches_performance()
+                elif selected_q == "Question 16":res = pipeline.get_que16_player_yearly_stats()
+                elif selected_q == "Question 17": 
+                    res = pipeline.get_q17_toss_advantage()
+                    if isinstance(res, pd.DataFrame) and not res.empty:
+                        st.subheader("Question 17 — Toss Advantage Analysis")
+                        st.dataframe(res, use_container_width=True)
+                    else:
+                        st.warning("No data available for Question 17.")
+                elif selected_q == "Question 18": res = pipeline.get_que18_economical_bowlers()
+                elif selected_q == "Question 19":
+                    try:
+                        res = pipeline.get_que19_player_consistency()
+                    except Exception as e:
+                        st.error(f"Error: {e}")
+                        res = pd.DataFrame()
+                elif selected_q == "Question 20": res = pipeline.get_que20_player_format_analysis()
+                elif selected_q == "Question 21":res = pipeline.get_q21_composite_ranking()
+                elif selected_q == "Question 22":
+                    st.subheader("🏏 Q22: India vs Australia Head-to-Head Analysis (2024–2026)")
+                    st.caption("Data extracted from Cricbuzz series archives | Only completed matches included")
+                    res = pipeline.get_q22_head_to_head_analysis()
+                elif selected_q == "Question 23":res = pipeline.get_q23_player_form_analysis()
+                elif selected_q == "Question 24":res = pipeline.get_q24_batting_partnerships()
+                elif selected_q == "Question 25":res = pipeline.get_q25_player_time_series()
+                else: res = pd.DataFrame() # Fallback 
+                # -------- SAFE DISPLAY --------
+                if isinstance(res, pd.DataFrame):
 
-                        st.markdown("### Toss Impact by Decision")
-                        st.dataframe(summary_df)
+                  if not res.empty:
+                      st.dataframe(res, use_container_width=True)
+               
+                  else:
+                      st.warning("No data available for this query.")
+                elif isinstance(res, dict):
+                 # temporary fallback if any function still returns dict
+                      st.write(res)
+                elif res is None:
+                      pass   # do nothing (custom UI already shown)
 
-                        with st.expander("View Match Level Data"):
-                            st.dataframe(df_toss)
-
-                    res = pd.DataFrame({"Info": ["Toss analysis displayed above"]})
-                elif selected_q == "Question 18": res = pipeline.get_economical_bowlers()
-                elif selected_q == "Question 19": res = pipeline.get_batting_consistency()
-                elif selected_q == "Question 20": res = pipeline.get_player_format_analysis(pipeline.get_team_players(2))
-                elif selected_q == "Question 21": res = pipeline.get_player_composite_ranking(pipeline.get_team_players(2))
-                elif selected_q == "Question 22": res = pipeline.analyze_head_to_head_matches(getattr(pipeline, "recent_df", pd.DataFrame()))
-                elif selected_q == "Question 23": res = pipeline.analyze_player_form()
-                elif selected_q == "Question 24": res = pipeline.analyze_batting_partnerships()
-                elif selected_q == "Question 25": res = pipeline.analyze_player_time_series(pipeline.get_yearly_batting_performance())
-                else: res = pd.DataFrame() # Fallback
-                
-                if not res.empty:
-                    st.dataframe(res, use_container_width=True)
                 else:
-                    st.warning("No data available for this query.")
+                      st.warning("No data available for this query.")
+
+               
             except Exception as e:
                 st.session_state.has_error = True
-                st.error("Analysis failed.")
+                st.error(f"Analysis failed: {e}")
+
 
 
 elif option == CRUD:
@@ -491,7 +524,7 @@ elif option == CRUD:
         """Create table if not exists; seed with 10 players if empty."""
         with conn.cursor() as cur:
             cur.execute("""
-                CREATE TABLE IF NOT EXISTS players (
+                CREATE TABLE IF NOT EXISTS crud_players (
                     id       SERIAL PRIMARY KEY,
                     name     VARCHAR(100),
                     country  VARCHAR(100),
@@ -501,11 +534,11 @@ elif option == CRUD:
                     wickets  INTEGER
                 );
             """)
-            cur.execute("SELECT COUNT(*) FROM players;")
+            cur.execute("SELECT COUNT(*) FROM crud_players;")
             count = cur.fetchone()[0]
             if count == 0:
                 cur.executemany(
-                    "INSERT INTO players (name, country, role, matches, runs, wickets) "
+                    "INSERT INTO crud_players (name, country, role, matches, runs, wickets) "
                     "VALUES (%s, %s, %s, %s, %s, %s);",
                     DEFAULT_PLAYERS
                 )
@@ -517,13 +550,13 @@ elif option == CRUD:
             if search:
                 cur.execute(
                     "SELECT id, name, country, role, matches, runs, wickets "
-                    "FROM players WHERE name ILIKE %s OR country ILIKE %s ORDER BY id;",
+                    "FROM crud_players WHERE name ILIKE %s OR country ILIKE %s ORDER BY id;",
                     (f"%{search}%", f"%{search}%")
                 )
             else:
                 cur.execute(
                     "SELECT id, name, country, role, matches, runs, wickets "
-                    "FROM players ORDER BY id;"
+                    "FROM crud_players ORDER BY id;"
                 )
             rows = cur.fetchall()
         cols = ["ID", "Name", "Country", "Role", "Matches", "Runs", "Wickets"]
@@ -532,7 +565,7 @@ elif option == CRUD:
     def add_player(conn, name, country, role, matches, runs, wickets):
         with conn.cursor() as cur:
             cur.execute(
-                "INSERT INTO players (name, country, role, matches, runs, wickets) "
+                "INSERT INTO crud_players (name, country, role, matches, runs, wickets) "
                 "VALUES (%s, %s, %s, %s, %s, %s);",
                 (name, country, role, matches, runs, wickets)
             )
@@ -541,7 +574,7 @@ elif option == CRUD:
     def update_player(conn, pid, name, country, role, matches, runs, wickets):
         with conn.cursor() as cur:
             cur.execute(
-                "UPDATE players SET name=%s, country=%s, role=%s, "
+                "UPDATE crud_players SET name=%s, country=%s, role=%s, "
                 "matches=%s, runs=%s, wickets=%s WHERE id=%s;",
                 (name, country, role, matches, runs, wickets, pid)
             )
@@ -550,7 +583,7 @@ elif option == CRUD:
 
     def delete_player(conn, pid):
         with conn.cursor() as cur:
-            cur.execute("DELETE FROM players WHERE id=%s;", (pid,))
+            cur.execute("DELETE FROM crud_players WHERE id=%s;", (pid,))
         conn.commit()
         return cur.rowcount  # 0 if ID not found
 
